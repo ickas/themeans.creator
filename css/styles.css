@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Open+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Open+Sans:ital@0;1&family=Squada+One&display=swap');
 
 * {
   box-sizing: border-box;
@@ -9,6 +9,9 @@
 :root {
   --bg: #000000;
   --txt: #ffffff;
+  --grey: #727272;
+  --btn: #407FDB;
+  --maxWidth: 1240px;
 }
 
 html {
@@ -23,4 +26,94 @@ body {
   font-size: 1rem;
   font-weight: 400;
   color: var(--txt, #ffffff);
+}
+
+nav {
+  margin: 100px auto 150px auto;
+  max-width: var(--maxWidth, 1240px);
+  display: flex;
+  justify-content: space-between;
+}
+
+nav img {
+  width: auto;
+  height: 100px;
+}
+
+header, main, footer {
+  margin: 0 auto;
+  max-width: var(--maxWidth, 1240px);
+}
+
+footer {
+  margin: 150px auto 50px auto;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  font-family: 'Squada One', cursive;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+h1, h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+header > span {
+  display: inline-block;
+  margin-bottom: 50px;
+  font-family: 'Squada One', cursive;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--grey, #727272);
+}
+
+section {
+  margin-top: 150px;
+}
+
+section h2 {
+  margin-bottom: 50px;
+}
+
+a.button {
+  display: block;
+  max-width: max-content;
+  background-color: var(--btn, #407FDB);
+  padding: 20px;
+  font-family: 'Squada One', cursive;
+  font-size: 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--txt);
+}
+
+a.button:hover {
+  background-color: #3972C5;
+}
+
+a.button img {
+  margin-right: 15px;
+  width: auto;
+  height: 30px;
+}
+
+a.social {
+  background-color: var(--txt, #ffffff);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  color: var(--bg, #000000);
+  text-transform: inherit;
+}
+
+a.social:hover {
+  background-color: #dddddd;
 }
