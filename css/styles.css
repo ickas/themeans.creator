@@ -76,10 +76,28 @@ header > span {
 
 section {
   margin-top: 150px;
+  font-size: 18px;
 }
 
 section h2 {
   margin-bottom: 50px;
+}
+
+blockquote {
+  margin: 0 0 0 -25px;
+  border-left: 10px solid var(--grey, #727272);
+  padding: 5px 0 5px 15px;
+  font-style: italic;
+}
+
+blockquote .author {
+  display: block;
+  margin-top: 15px;
+  font-style: normal;
+}
+
+p {
+  margin: 0;
 }
 
 a.button {
@@ -116,4 +134,28 @@ a.social {
 
 a.social:hover {
   background-color: #dddddd;
+}
+
+.preposition {
+  max-width: 800px;
+  line-height: 1.5;
+}
+
+.preposition div:not(:last-child) {
+  margin-bottom: 50px;
+}
+
+.preposition p:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.preposition .footnote {
+  font-family: 'Squada One', cursive;
+  font-size: 40px;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.preposition .footnote.grey {
+  color: var(--grey, #727272);
 }
