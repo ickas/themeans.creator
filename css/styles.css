@@ -9,7 +9,7 @@
 :root {
   --bg: #000000;
   --txt: #ffffff;
-  --grey: #727272;
+  --grey: #B3B3B3;
   --btn: #407FDB;
   --maxWidth: 1240px;
 }
@@ -65,7 +65,7 @@ footer > div > img {
 
 footer > div > span {
   font-size: 14px;
-  color: var(--grey, #727272);
+  color: var(--grey, #B3B3B3);
 }
 
 h1, h2, h3 {
@@ -81,7 +81,7 @@ h1, h2 {
 
 h3 {
   font-size: 40px;
-  color: var(--grey, #727272);
+  color: var(--grey, #B3B3B3);
 }
 
 ul {
@@ -101,7 +101,7 @@ header > span {
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: var(--grey, #727272);
+  color: var(--grey, #B3B3B3);
 }
 
 section {
@@ -115,7 +115,7 @@ section h2 {
 
 blockquote {
   margin: 0 0 0 -25px;
-  border-left: 10px solid var(--grey, #727272);
+  border-left: 10px solid var(--grey, #B3B3B3);
   padding: 5px 0 5px 15px;
   font-style: italic;
 }
@@ -191,7 +191,7 @@ a.social:hover {
 }
 
 .preposition .footnote.grey {
-  color: var(--grey, #727272);
+  color: var(--grey, #B3B3B3);
 }
 
 .cta {
@@ -225,7 +225,7 @@ a.social:hover {
 
 .team > div img {
   margin-right: 15px;
-  border: 10px solid var(--grey, #727272);
+  border: 10px solid var(--grey, #B3B3B3);
   border-radius: 50%;
   width: 120px;
   height: 120px;
@@ -240,7 +240,7 @@ a.social:hover {
 }
 
 .team .handle {
-  color: var(--grey, #727272);
+  color: var(--grey, #B3B3B3);
 }
 
 .team span.bio {
@@ -262,7 +262,7 @@ a.social:hover {
 .pricing span.disclaimer, .pricing ul.disclaimer {
   font-size: 14px;
   font-style: italic;
-  color: var(--grey, #727272);
+  color: var(--grey, #B3B3B3);
 }
 
 .pricing span.disclaimer {
