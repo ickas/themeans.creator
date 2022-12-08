@@ -49,6 +49,25 @@ footer {
   margin: 150px auto 50px auto;
 }
 
+footer > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer > div:first-child {
+  margin-bottom: 50px;
+}
+
+footer > div > img {
+  width: auto;
+  height: 100px;
+}
+
+footer > div > span {
+  font-size: 14px;
+  color: var(--grey, #727272);
+}
+
 h1, h2, h3 {
   margin: 0;
   font-family: 'Squada One', cursive;
