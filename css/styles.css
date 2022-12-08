@@ -96,8 +96,16 @@ blockquote .author {
   font-style: normal;
 }
 
+blockquote + p {
+  margin-top: 15px;
+}
+
 p {
   margin: 0;
+}
+
+p:not(:last-child) {
+  margin-bottom: 15px;
 }
 
 a.button {
@@ -143,10 +151,6 @@ a.social:hover {
 
 .preposition div:not(:last-child) {
   margin-bottom: 50px;
-}
-
-.preposition p:not(:last-child) {
-  margin-bottom: 15px;
 }
 
 .preposition .footnote {
