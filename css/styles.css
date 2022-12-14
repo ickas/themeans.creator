@@ -244,8 +244,14 @@ a.social:hover {
   font-weight: 600;
 }
 
-.team .handle {
+.team a {
   color: var(--grey);
+  text-decoration: none;
+  transition-duration: 0.3s;
+}
+
+.team a:hover {
+  color: var(--txt);
 }
 
 .team span.bio {
