@@ -209,16 +209,15 @@ a.social:hover {
 
 .cta {
   margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 15px;
 }
 
 .cta a {
-  flex: 1;
+  width: 100%;
   max-width: 100%;
   text-align: center;
-}
-
-.cta a:not(:last-child) {
-  margin: 0 0 15px 0;
 }
 
 .team > div {
@@ -376,11 +375,11 @@ a.social:hover {
   }
 
   .cta {
-    display: flex;
+    grid-template-columns: repeat(2, 1fr);
   }
 
-  .cta a:not(:last-child) {
-    margin: 0 50px 0 0;
+  .cta a.button {
+    font-size: 30px;
   }
 
   .team, .pricing {
@@ -421,5 +420,13 @@ a.social:hover {
 
   blockquote {
     margin: 0 0 0 -25px;
+  }
+
+  .cta {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .cta a.button {
+    font-size: 18px;
   }
 }
