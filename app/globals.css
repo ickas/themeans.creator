@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --black: #000000;
+  --white: #ffffff;
+  --grey: #B3B3B3;
+  --grey900: #17171C;
+  --blue: #407FDB;
+
+  /* Layout */
+  --layoutMaxWidth: 1240px;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: var(--black);
+  /* font-family: "Open Sans", Arial, Helvetica, sans-serif; */
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--white);
+}
+
+h1, h2, h3 {
+  margin: 0;
+  /* font-family: 'Squada One', cursive; */
+  text-transform: uppercase;
+  letter-spacing: 0.0625rem;
+  text-align: center;
+}
+
+h1, h2 {
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+h3 {
+  font-size: 1.875rem;
+  color: var(--grey);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul li:not(:last-child) {
+  margin-bottom: 0.125rem;
+}
+
+p {
+  margin: 0;
+}
+
+p:not(:last-child) {
+  margin-bottom: 0.9375rem;
+}
+
+.sr-only {
+  position: absolute !important;
+  margin: 0;
+  border: 0;
+  width: 1px;
+  height: auto;
+  padding: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+@media (min-width: 700px) {
+  h1, h2, h3 {
+    text-align: left;
+  }
+
+  h1, h2 {
+    font-size: 3.75rem;
+  }
+
+  h3 {
+    font-size: 2.5rem;
+  }
+}
