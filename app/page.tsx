@@ -1,47 +1,14 @@
 import Section from "./ui/Section";
+import Narrow from "./ui/Narrow";
 import ButtonLink from "./ui/ButtonLink";
 import Team from "./ui/Team";
 import Pricing from "./ui/Pricing";
-import AnaNovo from "/public/Ana_Novo.jpg";
-import SoniaTeles from "/public/MOJnfts.jpg";
 import styles from "./page.module.css";
+import { links } from "./lib/links";
+import { team } from "./lib/team";
 import { squadaOne } from "./fonts";
 
 export default function Home() {
-  const links = [
-    {
-      value: "The Means SZN1",
-      url: "https://opensea.io/themeanscreator",
-    },
-    {
-      value: "The Means SZN2",
-      url: "https://opensea.io/collection/themeans",
-    },
-    {
-      value: "What Do You Mean?",
-      url: "https://opensea.io/collection/themeanswhatdoyoumean",
-    },
-    {
-      value: "Look Again - Gallery",
-      url: "https://oncyber.io/themeans",
-    },
-  ];
-
-  const team = [
-    {
-      avatar: AnaNovo,
-      name: "Ana Cristina Novo",
-      twitter: "Ana_Novo",
-      bio: "Designer, digital artist, NFT portfolio manager, physical miniature extraordinaire.",
-    },
-    {
-      avatar: SoniaTeles,
-      name: "Sonia",
-      twitter: "MOJnfts",
-      bio: "Copywriter, idea-haver and stuff-doer.",
-    },
-  ];
-
   return (
     <main className={styles.wrapper}>
       <div className={styles.hero}>
@@ -58,7 +25,7 @@ export default function Home() {
         />
       </div>
       <Section title="Collection Proposition.">
-        <div>
+        <Narrow>
           <p>The Memes:</p>
           <blockquote>
             <span>
@@ -69,15 +36,15 @@ export default function Home() {
             </span>
             <span className="author">Punk 6529</span>
           </blockquote>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <p>This was the trigger that set an idea free.</p>
           <p>
             We love The Memes and what they represent. We love what Punk 6529 is
             trying to do and the mission he has dared us all to accept.
           </p>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <blockquote>
             <span>
               If you want to build a ship, don't drum up the men to gather wood,
@@ -86,14 +53,14 @@ export default function Home() {
             </span>
             <span className="author">Antoine de St Exupery (1900-1944)</span>
           </blockquote>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <p>
             We have set sail. We have left the safety of the harbour. We know
             where we want to go. We know where we don't want to stay.
           </p>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <blockquote>
             <span>
               6529 is worried that the world is sleepwalking into high
@@ -102,25 +69,25 @@ export default function Home() {
             </span>
             <span className="author">Punk 6529</span>
           </blockquote>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <p>
             We're all here. We push. We pull. We sway and bend. We never break.
           </p>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <blockquote>
             <span>we don't quit!</span>
             <span className="author">Punk 6529</span>
           </blockquote>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <p>
             Indeed. We don't quit. And not only that; we try to bring as many
             others as possible on this mission. There is strength in numbers.
           </p>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <blockquote>
             <span>
               What this means that there are some of us, maybe 50,000 today,
@@ -131,11 +98,11 @@ export default function Home() {
             </span>
             <span className="author">Punk 6529</span>
           </blockquote>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <p>Yes, Ser. We fight. Together.</p>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <p>
             Our fight has made us look at this mission and how it's materialized
             through The Memes. We went searching for meaning. The Memes have
@@ -144,8 +111,8 @@ export default function Home() {
             relatable, at once understood. Meaning is the heart and soul of a
             meme.
           </p>
-        </div>
-        <div>
+        </Narrow>
+        <Narrow>
           <blockquote>
             <span>gm means "good morning"</span>
             <br />
@@ -178,7 +145,7 @@ export default function Home() {
             <span>LFG means Let's Fucking Go.</span>
             <span className="author">Punk 6529</span>
           </blockquote>
-        </div>
+        </Narrow>
         <div className={`${squadaOne.className} ${styles.footerNote}`}>
           <span>Meaning.</span>
           <br />
