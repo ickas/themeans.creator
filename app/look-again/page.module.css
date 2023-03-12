@@ -1,0 +1,14 @@
+.wrapper {
+  padding: calc(var(--sectionMargin) + var(--navbarHeight)) var(--sidePadding) 0;
+}
+
+.hero {
+  margin: 0 auto;
+  max-width: var(--layoutMaxWidth);
+}
+
+.hero > span {
+  font-size: 2.5rem; /* 40px */
+  color: var(--grey400);
+  text-transform: uppercase;
+}

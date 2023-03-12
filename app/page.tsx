@@ -1,11 +1,11 @@
-import ButtonLink from "./ui/ButtonLink";
 import Section from "./ui/Section";
-import styles from "./page.module.css";
-import { squadaOne } from "./fonts";
+import ButtonLink from "./ui/ButtonLink";
 import Team from "./ui/Team";
 import Pricing from "./ui/Pricing";
 import AnaNovo from "/public/Ana_Novo.jpg";
 import SoniaTeles from "/public/MOJnfts.jpg";
+import styles from "./page.module.css";
+import { squadaOne } from "./fonts";
 
 export default function Home() {
   const links = [

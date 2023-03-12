@@ -7,7 +7,7 @@ export default function Section(props: SectionProps) {
 
   return (
     <section className={styles.section}>
-      <h2 className={squadaOne.className}>{title}</h2>
+      {title && <h2 className={squadaOne.className}>{title}</h2>}
       {children}
     </section>
   );
