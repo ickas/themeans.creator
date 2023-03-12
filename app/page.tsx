@@ -50,8 +50,9 @@ export default function Home() {
           Connecting The Memes with their Meaning.
         </span>
         <ButtonLink
-          url="https://opensea.io/themeanscreator"
           value="View on OpenSea"
+          url="https://opensea.io/themeanscreator"
+          target="_blank"
           xl
           blue
         />
@@ -316,7 +317,13 @@ export default function Home() {
         <ul className={styles.cta}>
           {links.map((link, index) => (
             <li key={index}>
-              <ButtonLink url={link.url} value={link.value} xl blue />
+              <ButtonLink
+                value={link.value}
+                url={link.url}
+                target="_blank"
+                xl
+                blue
+              />
             </li>
           ))}
         </ul>

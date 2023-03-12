@@ -21,6 +21,7 @@ export default function ButtonLink(props: ButtonLinkProps) {
       } ${blue ? styles.blue : ""}`}
       href={url}
       target={target}
+      rel={target === "_blank" ? "noopener noreferrer" : undefined}
     >
       {icon && <Icon icon={icon} />}
       <span>{value}</span>

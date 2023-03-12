@@ -33,7 +33,12 @@ export default function Navbar() {
           </ul>
         </div>
         <div className={styles.cta}>
-          <ButtonLink url="#0" value="TheMeansCreator" icon="twitter" />
+          <ButtonLink
+            value="TheMeansCreator"
+            url="https://twitter.com/TheMeansCreator"
+            target="_blank"
+            icon="twitter"
+          />
         </div>
       </div>
     </nav>
