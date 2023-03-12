@@ -1,3 +1,8 @@
+
+export const metadata = {
+  title: "The Means — SZN2",
+};
+
 export default function TheMeansSzn2() {
   return (
     <div>
