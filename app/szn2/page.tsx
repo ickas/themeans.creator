@@ -1,3 +1,8 @@
+import Gallery from "../ui/Gallery";
+import { squadaOne } from "../fonts";
+import { szn2 } from "@/app/lib/szn2";
+import styles from "./szn2.module.css";
+import Link from "next/link";
 
 export const metadata = {
   title: "The Means — SZN2",
@@ -5,13 +10,27 @@ export const metadata = {
 
 export default function TheMeansSzn2() {
   return (
-    <div>
-      <p>The Means - Szn 2</p>
-      <p>The Means - Szn 2</p>
-      <p>The Means - Szn 2</p>
-      <p>The Means - Szn 2</p>
-      <p>The Means - Szn 2</p>
-      <p>The Means - Szn 2</p>
-    </div>
+    <main className={styles.wrapper}>
+      <div className={styles.hero}>
+        <h1 className={squadaOne.className}>
+          This is your Means heads up page for mints.{" "}
+        </h1>
+        <p>
+          The Means have moved minting to Manifold. To keep up with new drops,
+          use this page as a reference and guide to minting URLs. To stay even
+          more on top of things, follow us on{" "}
+          <Link
+            href="https://twitter.com/TheMeansCreator"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Twitter
+          </Link>{" "}
+          and get all drop information as soon as it’s out.
+        </p>
+        <p>Check out active mints below.</p>
+      </div>
+      <Gallery items={szn2} />
+    </main>
   );
 }

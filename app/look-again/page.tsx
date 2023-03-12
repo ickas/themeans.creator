@@ -1,6 +1,23 @@
 import Section from "../ui/Section";
+import Gallery from "../ui/Gallery";
 import styles from "./page.module.css";
 import { squadaOne } from "../fonts";
+import {
+  lookAgainMeme1,
+  lookAgainMeme2,
+  lookAgainMeme3,
+  lookAgainMeme4,
+  lookAgainMeme5,
+  lookAgainMeme6,
+  lookAgainMeme7,
+  lookAgainMeme8,
+  lookAgainMeme9,
+  lookAgainMeme10,
+} from "@/app/lib/look-again";
+
+export const metadata = {
+  title: "The Means — Look Again Gallery",
+};
 
 export default function LookAgain() {
   return (
@@ -152,6 +169,28 @@ export default function LookAgain() {
         <p>
           Meaning everywhere, for everyone. Look Again and see for yourself.
         </p>
+      </Section>
+      <Section>
+        <h4>Meme 1: Seize the Memes of Production</h4>
+        {lookAgainMeme1.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 2: WAGMI</h4>
+        {lookAgainMeme2.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 3: Don’t Let the Institutions Steal your JPEGS</h4>
+        {lookAgainMeme3.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 4: gm</h4>
+        {lookAgainMeme4.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 5: Use a Hardware Wallet</h4>
+        {lookAgainMeme5.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 6: Open Metaverse/OM</h4>
+        {lookAgainMeme6.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 7: Freedom to Transact Meme</h4>
+        {lookAgainMeme7.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 8: Freestyle</h4>
+        {lookAgainMeme8.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 9: Survive</h4>
+        {lookAgainMeme9.length > 0 && <Gallery items={lookAgainMeme1} />}
+        <h4>Meme 10: Not your Keys, not your coins</h4>
+        {lookAgainMeme10.length > 0 && <Gallery items={lookAgainMeme1} />}
       </Section>
     </main>
   );
