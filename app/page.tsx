@@ -47,9 +47,9 @@ export default function Home() {
         <Narrow>
           <blockquote>
             <span>
-              If you want to build a ship, don't drum up the men to gather wood,
-              divide the work and give orders. Instead, teach them to yearn for
-              the vast and endless sea.
+              If you want to build a ship, don&apos;t drum up the men to gather
+              wood, divide the work and give orders. Instead, teach them to
+              yearn for the vast and endless sea.
             </span>
             <span className="author">Antoine de St Exupery (1900-1944)</span>
           </blockquote>
@@ -57,7 +57,7 @@ export default function Home() {
         <Narrow>
           <p>
             We have set sail. We have left the safety of the harbour. We know
-            where we want to go. We know where we don't want to stay.
+            where we want to go. We know where we don&apos;t want to stay.
           </p>
         </Narrow>
         <Narrow>
@@ -72,19 +72,21 @@ export default function Home() {
         </Narrow>
         <Narrow>
           <p>
-            We're all here. We push. We pull. We sway and bend. We never break.
+            We&apos;re all here. We push. We pull. We sway and bend. We never
+            break.
           </p>
         </Narrow>
         <Narrow>
           <blockquote>
-            <span>we don't quit!</span>
+            <span>we don&apos;t quit!</span>
             <span className="author">Punk 6529</span>
           </blockquote>
         </Narrow>
         <Narrow>
           <p>
-            Indeed. We don't quit. And not only that; we try to bring as many
-            others as possible on this mission. There is strength in numbers.
+            Indeed. We don&apos;t quit. And not only that; we try to bring as
+            many others as possible on this mission. There is strength in
+            numbers.
           </p>
         </Narrow>
         <Narrow>
@@ -104,26 +106,27 @@ export default function Home() {
         </Narrow>
         <Narrow>
           <p>
-            Our fight has made us look at this mission and how it's materialized
-            through The Memes. We went searching for meaning. The Memes have
-            meaning. That meaning is what makes a meme a meme. What it means and
-            represents makes a meme instantly recognizable, immediately
-            relatable, at once understood. Meaning is the heart and soul of a
-            meme.
+            Our fight has made us look at this mission and how it&apos;s
+            materialized through The Memes. We went searching for meaning. The
+            Memes have meaning. That meaning is what makes a meme a meme. What
+            it means and represents makes a meme instantly recognizable,
+            immediately relatable, at once understood. Meaning is the heart and
+            soul of a meme.
           </p>
         </Narrow>
         <Narrow>
           <blockquote>
-            <span>gm means "good morning"</span>
+            <span>gm means &quot;good morning&quot;</span>
             <br />
-            <span>gn means "good night"</span>
+            <span>gn means &quot;good night&quot;</span>
             <br />
-            <span>Ser means "sir"</span>
+            <span>Ser means &quot;sir&quot;</span>
             <br />
-            <span>Fren means "friend"</span>
+            <span>Fren means &quot;friend&quot;</span>
             <br />
             <span>
-              GMI/WAGMI means "Gonna Make It" / "We All Gonna Make It"
+              GMI/WAGMI means &quot;Gonna Make It&quot; / &quot;We All Gonna
+              Make It&quot;
             </span>
             <br />
             <span>NGMI means Not Going To Make It.</span>
@@ -136,13 +139,13 @@ export default function Home() {
             <br />
             <span>IRL means In Real Life.</span>
             <br />
-            <span>Probably Nothing means "probably something".</span>
+            <span>Probably Nothing means &quot;probably something&quot;.</span>
             <br />
             <span>
               This Is The Way means a way to commend socially positive behavior
             </span>
             <br />
-            <span>LFG means Let's Fucking Go.</span>
+            <span>LFG means Let&apos;s Fucking Go.</span>
             <span className="author">Punk 6529</span>
           </blockquote>
         </Narrow>
@@ -156,9 +159,9 @@ export default function Home() {
         <p>
           The Means is a derivative-based collection materialized through The
           Memes meme 8 - Authentic Summer adaptations. We have taken The Memes
-          and given them The Means. But there's a twist: the full meaning of
-          each meme is unveiled through Punk 6529's own words. Who else could
-          better explain what the Memes mean? We have read up, researched,
+          and given them The Means. But there&apos;s a twist: the full meaning
+          of each meme is unveiled through Punk 6529&apos;s own words. Who else
+          could better explain what the Memes mean? We have read up, researched,
           listened and taken notes. Lots of notes.
         </p>
         <p>
@@ -192,9 +195,9 @@ export default function Home() {
         </p>
         <p>
           The collection will grow and expand as The Memes do. Supply will be
-          based on The Memes' original supply, minus a decimal position. Minting
-          price is the same as the year in which Satoshi Nakamoto delivered his
-          Bitcoin white paper. See? Meaning, everywhere.
+          based on The Memes&apos; original supply, minus a decimal position.
+          Minting price is the same as the year in which Satoshi Nakamoto
+          delivered his Bitcoin white paper. See? Meaning, everywhere.
         </p>
         <blockquote>
           <span>The Metaverse will actually happen this decade.</span>
@@ -226,32 +229,33 @@ export default function Home() {
         </p>
         <p>
           Those hodling The Means and The Memes collections will, every now and
-          then, be dropped special edition pieces. We'll work hard to make this
-          happen as often as possible.
+          then, be dropped special edition pieces. We&apos;ll work hard to make
+          this happen as often as possible.
         </p>
         <p>
           In the meantime, we will continue to connect what Punk 6529 says with
-          new Memes. As long as there's a Memes collection, there will be a
+          new Memes. As long as there&apos;s a Memes collection, there will be a
           Means collection.
         </p>
       </Section>
       <Section title="Wait. What do you Mean?">
-        <p>There's more.</p>
+        <p>There&apos;s more.</p>
         <p>
-          We've created a side collection with all the ideas and art that don't
-          quite fit in with The Means but that add value to the goal of
-          spreading the message, onboarding more people to NFTs and Web 3, and,
-          of course, having some fun along the way. We've dubbed this collection
-          What do You Mean? because it's exactly that further level of meaning
-          (and fun) that we aim to create.
+          We&apos;ve created a side collection with all the ideas and art that
+          don&apos;t quite fit in with The Means but that add value to the goal
+          of spreading the message, onboarding more people to NFTs and Web 3,
+          and, of course, having some fun along the way. We&apos;ve dubbed this
+          collection What do You Mean? because it&apos;s exactly that further
+          level of meaning (and fun) that we aim to create.
         </p>
         <p>
           What do you Mean? will break from the base concept for The Means in
-          terms of art, but not in terms of substance. You'll see what we mean.
+          terms of art, but not in terms of substance. You&apos;ll see what we
+          mean.
         </p>
         <p>
           The mechanics will be the same as for The Means except for supply:
-          supply will follow the original Memes' available quantity.
+          supply will follow the original Memes&apos; available quantity.
         </p>
       </Section>
       <Section title="Location.">
@@ -313,7 +317,7 @@ export default function Home() {
         <p>
           We will distribute 4 editions of each piece to The Means team members
           and a further 4 to The Means Vault. Please consider this when
-          evaluating each piece's total supply.
+          evaluating each piece&apos;s total supply.
         </p>
       </Section>
     </main>
