@@ -11,6 +11,7 @@
   --grey150: #D5D6DC;
   --grey400: #8F91A3;
   --grey900: #17171C;
+  --grey950: #0C0C0E;
   --blue500: #407FDB;
   --blue600: #3972C5;
 
@@ -24,7 +25,7 @@
   /* Typograhpy */
   --fontWeightSemiBold: 600;
   --fontSizeS: 0.875rem; /* 14px */
-  --fontSizeM: 1.25rem; /* 20px */
+  --fontSizeM: 1rem; /* 16px */
   --fontSizeL: 1.875rem; /* 30px */
   --fontSizeXl: 2.5rem; /* 40px */
 
@@ -40,7 +41,7 @@ html {
 body {
   margin: 0;
   background-color: var(--black);
-  font-size: 1rem; /* 16px */
+  font-size: var(--fontSizeM);
   font-weight: 400;
   color: var(--white);
 }
@@ -65,6 +66,13 @@ h3 {
   font-size: var(--fontSizeL); /* 30px */
   color: var(--grey150);
   line-height: 1;
+}
+
+h4 {
+  margin: 0;
+  font-size: var(--fontSizeM); /* 30px */
+  color: var(--grey400);
+  line-height: 1.5;
 }
 
 ul {
@@ -119,6 +127,7 @@ blockquote + p {
 @media (min-width: 700px) {
   :root {
     --sectionMargin: 9.375rem; /* 150px */
+    --fontSizeM: 1.25rem; /* 20px */
   }
 
   h1, h2 {

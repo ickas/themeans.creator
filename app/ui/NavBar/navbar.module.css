@@ -5,6 +5,7 @@
   backdrop-filter: blur(4px);
   width: 100%;
   padding: var(--sidePadding);
+  font-size: 1rem; /* 16px */
   z-index: 1;
 }
 

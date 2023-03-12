@@ -2,17 +2,8 @@
   margin: var(--sectionMargin) auto 0 auto;
   max-width: var(--layoutMaxWidth);
   line-height: 1.5;
-  font-size: var(--fontSizeM);
 }
 
 .section h2 {
-  margin-bottom: var(--sectionInsideMargin);
-}
-
-.section > div {
-  max-width: 50rem; /* 800px */
-}
-
-.section > div:not(:last-child) {
   margin-bottom: var(--sectionInsideMargin);
 }
