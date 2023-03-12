@@ -1,0 +1,40 @@
+.wrapper {
+  max-width: 100% !important;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: var(--sectionInsideMargin);
+}
+
+.wrapper > div {
+  flex: 1;
+  display: flex;
+}
+
+.avatar {
+  margin-right: 0.9375rem; /* 15px */
+}
+
+.avatar img {
+  border: 0.625rem solid var(--grey400); /* 10px */
+  border-radius: 50%;
+}
+
+.id > span {
+  font-weight: var(--fontWeightSemiBold);
+}
+
+.id a {
+  color: var(--blue500);
+  text-decoration: none;
+}
+
+.id a:hover {
+  color: var(--white);
+}
+
+.bio {
+  margin-top: 0.9375rem; /* 15px */
+  font-size: var(--fontSizeS);
+  font-style: italic;
+  color: var(--grey400);
+}

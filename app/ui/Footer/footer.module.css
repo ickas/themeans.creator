@@ -1,0 +1,25 @@
+.wrapper {
+  margin: var(--sectionMargin) auto 0 auto;
+  max-width: var(--layoutMaxWidth);
+  display: flex;
+  justify-content: space-between;
+  padding: 0 var(--sidePadding) 1.5625rem;
+  color: var(--grey400);
+}
+
+.wrapper > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.wrapper div > svg {
+  width: auto;
+  height: 3.125rem;
+}
+
+.wrapper div > span {
+  margin-top: 1.875rem; /* 15px */
+  font-size: var(--fontSizeS);
+}

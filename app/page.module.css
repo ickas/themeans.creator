@@ -1,0 +1,40 @@
+.wrapper {
+  padding: 0 var(--sidePadding);
+}
+
+.hero {
+  margin: 0 auto;
+  max-width: var(--layoutMaxWidth);
+  padding-top: calc(var(--sectionMargin) + var(--navbarHeight));
+}
+
+.hero > span {
+  font-size: 2.5rem; /* 40px */
+  color: var(--grey400);
+  text-transform: uppercase;
+}
+
+.hero a {
+  margin-top: var(--sectionInsideMargin);
+}
+
+.footerNote {
+  font-size: var(--fontSizeXl);
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.footerNote span:first-child {
+  color: var(--grey400);
+}
+
+ul.cta {
+  margin-top: var(--sectionInsideMargin);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1.5625rem; /* 25px */
+}
+
+ul.cta a {
+  width: 100%;
+}

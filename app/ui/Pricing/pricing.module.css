@@ -1,0 +1,27 @@
+.wrapper {
+  max-width: 100% !important;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: var(--sectionInsideMargin);
+}
+
+.price {
+  font-size: var(--fontSizeXl);
+  line-height: 1;
+  color: var(--white);
+}
+
+.desc {
+  display: block;
+  margin: 0.9375rem 0 1.875rem;
+}
+
+.disclaimer {
+  font-size: var(--fontSizeS);
+  font-style: italic;
+  color: var(--grey400);
+}
+
+.disclaimer span {
+  font-weight: var(--fontWeightSemiBold);
+}

@@ -1,0 +1,44 @@
+.wrapper {
+  position: fixed;
+  border-bottom: 0.0625rem solid var(--grey900);
+  background-color: rgba(0,0,0,0.8);
+  backdrop-filter: blur(4px);
+  width: 100%;
+  height: var(--navbarHeight);
+  padding: 0 var(--sidePadding);
+  z-index: 1;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: var(--layoutMaxWidth);
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu {
+  flex: 1;
+  display: flex;
+}
+
+.menu svg  {
+  margin-right: 2.5rem;
+  width: auto;
+  height: 3.125rem;
+}
+
+.menu ul {
+  display: flex;
+  align-items: center;
+}
+
+.menu ul li:not(:last-child) {
+  margin-right: 1.875rem;
+}
+
+.menu a {
+  color: var(--white);
+  text-decoration: none;
+}
