@@ -23,7 +23,9 @@ export default function Navbar() {
     <nav className={styles.wrapper}>
       <div className={styles.container}>
         <div className={styles.menu}>
-          <Logo />
+          <Link href="/">
+            <Logo />
+          </Link>
           <ul>
             {menu.map((item, index) => (
               <li key={index}>
