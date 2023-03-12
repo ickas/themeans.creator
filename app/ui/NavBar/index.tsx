@@ -7,15 +7,15 @@ export default function Navbar() {
   const menu = [
     {
       title: "Home",
-      url: "#0",
+      url: ".",
     },
     {
       title: "Minting Now",
-      url: "#0",
+      url: "/szn2",
     },
     {
       title: "Look Again",
-      url: "#0",
+      url: "/look-again",
     },
   ];
 
