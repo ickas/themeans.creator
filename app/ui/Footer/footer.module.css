@@ -2,7 +2,7 @@
   margin: var(--sectionMargin) auto 0 auto;
   max-width: var(--layoutMaxWidth);
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   padding: 0 var(--sidePadding) 1.5625rem;
   color: var(--grey400);
 }
@@ -14,12 +14,49 @@
   align-items: flex-start;
 }
 
-.wrapper div > svg {
-  width: auto;
-  height: 3.125rem;
-}
-
 .wrapper div > span {
   margin-top: 1.875rem; /* 15px */
   font-size: var(--fontSizeS);
+}
+
+.copyright {
+  order: 2;
+}
+
+.copyright svg {
+  display: none;
+}
+
+.links {
+  order: 1;
+}
+
+.links > span {
+  display: none;
+}
+
+
+@media (min-width: 750px) {
+  .wrapper {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .copyright {
+    order: 1;
+  }
+
+  .copyright svg {
+    display: initial;
+    width: auto;
+    height: 3.125rem;
+  }
+
+  .links {
+    order: 2;
+  }
+
+  .links > span {
+    display: initial;
+  }
 }

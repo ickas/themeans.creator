@@ -18,7 +18,7 @@
   --layoutMaxWidth: 1240px;
   --sidePadding: 0.9375rem; /* 15px */
   --navbarHeight: 5rem; /* 80px */
-  --sectionMargin: 9.375rem; /* 150px */
+  --sectionMargin: 4.6875rem; /* 75px */
   --sectionInsideMargin: 3.125rem; /* 50px */
 
   /* Typograhpy */
@@ -53,7 +53,7 @@ h1, h2, h3 {
   margin: 0;
   text-transform: uppercase;
   letter-spacing: 0.0625rem; /* 1px */
-  text-align: center;
+  text-align: left;
 }
 
 h1, h2 {
@@ -117,8 +117,8 @@ blockquote + p {
 }
 
 @media (min-width: 700px) {
-  h1, h2, h3 {
-    text-align: left;
+  :root {
+    --sectionMargin: 9.375rem; /* 150px */
   }
 
   h1, h2 {

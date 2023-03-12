@@ -25,20 +25,44 @@
 
 .menu svg  {
   margin-right: 2.5rem;
-  width: auto;
-  height: 3.125rem;
+  width: 4.1875rem; /* 67px */
+  height: 3.125rem; /* 50px */
 }
 
 .menu ul {
-  display: flex;
-  align-items: center;
-}
-
-.menu ul li:not(:last-child) {
-  margin-right: 1.875rem;
+  display: none;
 }
 
 .menu a {
   color: var(--white);
   text-decoration: none;
+}
+
+.cta a svg {
+  margin-right: 0;
+}
+
+.cta a span {
+    display: none;
+}
+
+@media (min-width: 420px) {
+  .cta a svg {
+    margin-right: initial;
+  }
+
+  .cta a span {
+      display: initial;
+  }
+}
+
+@media (min-width: 700px) {
+  .menu ul {
+    display: flex;
+    align-items: center;
+  }
+
+  .menu ul li:not(:last-child) {
+    margin-right: 1.875rem;
+  }
 }

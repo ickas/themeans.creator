@@ -1,7 +1,7 @@
 .wrapper {
   max-width: 100% !important;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   grid-gap: var(--sectionInsideMargin);
 }
 
@@ -15,7 +15,9 @@
 }
 
 .avatar img {
-  border: 0.625rem solid var(--grey400); /* 10px */
+  width: 3.75rem;
+  height: 3.75rem;
+  border: 0.25rem solid var(--grey400); /* 5px */
   border-radius: 50%;
 }
 
@@ -37,4 +39,16 @@
   font-size: var(--fontSizeS);
   font-style: italic;
   color: var(--grey400);
+}
+
+@media (min-width: 750px) {
+  .wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .avatar img {
+    width: 7.5rem;
+    height: 7.5rem;
+    border-width: 0.625rem; /* 10px */
+  }
 }
