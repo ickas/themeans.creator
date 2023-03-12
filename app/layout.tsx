@@ -39,6 +39,7 @@ export const metadata = {
   robots: {
     index: true,
   },
+  authors: [{ name: "Henrique Macedo", url: "https://ickas.dev" }],
   manifest: "/manifest.webmanifest",
 };
 
