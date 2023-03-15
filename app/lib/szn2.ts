@@ -29,4 +29,10 @@ export const szn2 = [
     name: "On-chain GM",
     url: "https://app.manifold.xyz/c/MeansSzn2Card5",
   },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/48ab4cdabd9b370b99b87d4b380eb1addbdf440d1828999a5e3ba82ebb4cd777.jpg",
+    name: "Come and Unbank it",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card6",
+  },
 ];
