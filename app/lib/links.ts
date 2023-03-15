@@ -12,7 +12,7 @@ export const links = [
     url: "https://opensea.io/collection/themeanswhatdoyoumean",
   },
   {
-    value: "Look Again - Gallery",
+    value: "The Means SZN1 Oncyber Gallery",
     url: "https://oncyber.io/themeans",
   },
 ];

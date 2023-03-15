@@ -27,6 +27,17 @@
   display: none;
 }
 
+.copyright a {
+  border-bottom: 0.0625rem solid var(--grey800); /* 1px */
+  color: var(--grey400);
+  text-decoration: none;
+}
+
+.copyright a:hover {
+  border-color: var(--blue500);
+  color: var(--blue500);
+}
+
 .links {
   order: 1;
 }

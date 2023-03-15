@@ -1,44 +1,11 @@
 export const lookAgainMeme1 = [
-  {
-    image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/fefd32551e54533d2335918d17ae6f1f6248ab83439e0f54bde45815ee416824.jpg",
-    name: "Xpto",
-    artist: "John Doe",
-    collector: "John Doe",
-    url: "#0",
-  },
-  {
-    image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/fefd32551e54533d2335918d17ae6f1f6248ab83439e0f54bde45815ee416824.jpg",
-    name: "Xpto",
-    artist: "John Doe",
-    collector: "John Doe",
-    url: "#0",
-  },
-  {
-    image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/fefd32551e54533d2335918d17ae6f1f6248ab83439e0f54bde45815ee416824.jpg",
-    name: "Xpto",
-    artist: "John Doe",
-    collector: "John Doe",
-    url: "#0",
-  },
-  {
-    image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/fefd32551e54533d2335918d17ae6f1f6248ab83439e0f54bde45815ee416824.jpg",
-    name: "Xpto",
-    artist: "John Doe",
-    collector: "John Doe",
-    url: "#0",
-  },
-  {
-    image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/fefd32551e54533d2335918d17ae6f1f6248ab83439e0f54bde45815ee416824.jpg",
-    name: "ckjsdlçfj çsldfj çlsdfjjhdl khalskdhf klsdhf klashf enas",
-    artist: "John Doe",
-    collector: "John Doe",
-    url: "",
-  },
+  // {
+  //   image: "image url",
+  //   name: "name",
+  //   artist: "artist",
+  //   collector: "collector",
+  //   url: "#0",
+  // },
 ];
 
 export const lookAgainMeme2 = [];
