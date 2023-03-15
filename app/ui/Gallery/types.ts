@@ -3,7 +3,10 @@ interface GalleryItem {
   name: string;
   artist?: string;
   collector?: string;
-  url?: string;
+  url: string;
+  osUrl?: string;
+  startDate?: string;
+  endDate?: string;
 }
 
 export interface GalleryProps {

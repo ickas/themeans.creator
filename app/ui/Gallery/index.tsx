@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 import styles from "./gallery.module.css";
@@ -8,31 +10,48 @@ export default function Gallery(props: GalleryProps) {
 
   return (
     <div className={styles.wrapper}>
-      {items.map((item, index) => (
-        <div
-          key={index}
-          style={{ pointerEvents: !item.url ? "none" : "initial" }}
-        >
-          <Link
-            href={item.url ?? "#0"}
-            target="_blank"
-            rel="noopener noreferrer"
+      {items.map((item, index) => {
+        const now = new Date();
+        const endDate = new Date(item.endDate ?? "");
+        const isEnded = now > endDate;
+        const url = isEnded ? item.osUrl : item.url ?? "#";
+
+        return (
+          <div
+            key={index}
+            style={{ pointerEvents: !item.url ? "none" : "initial" }}
           >
-            <div className={styles.image}>
-              <Image src={item.image} alt={item.name} fill />
-            </div>
-            <div className={styles.details}>
-              <h5>{item.name}</h5>
-              {(item.collector || item.artist) && (
-                <ul>
-                  {item.collector && <li>from {item.collector}</li>}
-                  {item.artist && <li>by {item.artist}</li>}
-                </ul>
-              )}
-            </div>
-          </Link>
-        </div>
-      ))}
+            <Link href={url ?? "#0"} target="_blank" rel="noopener noreferrer">
+              <div
+                className={`${styles.image} ${
+                  isEnded ? styles.disabled : undefined
+                }`}
+              >
+                <Image
+                  src={item.image}
+                  alt={item.name}
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  fill
+                />
+              </div>
+              <div className={styles.details}>
+                <h5>{item.name}</h5>
+                {(item.startDate || item.endDate) && (
+                  <span className={styles.date}>
+                    {item.startDate} — {item.endDate}
+                  </span>
+                )}
+                {(item.collector || item.artist) && (
+                  <ul>
+                    {item.collector && <li>from {item.collector}</li>}
+                    {item.artist && <li>by {item.artist}</li>}
+                  </ul>
+                )}
+              </div>
+            </Link>
+          </div>
+        );
+      })}
     </div>
   );
 }

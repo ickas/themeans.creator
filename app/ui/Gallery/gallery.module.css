@@ -21,6 +21,11 @@
   text-decoration: none;
 }
 
+.date {
+  font-size: var(--fontSizeS);
+  color: var(--grey600);
+}
+
 .image {
   position: relative;
   height: 18.75rem; /* 300px */
@@ -28,6 +33,18 @@
 
 .image img {
   object-fit: contain
+}
+
+.disabled img {
+  opacity: 0.5;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+}
+
+.disabled:hover img {
+  opacity: 1;
+  filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
 }
 
 .details {
