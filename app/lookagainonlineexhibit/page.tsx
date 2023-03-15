@@ -16,7 +16,7 @@ import {
 } from "@/app/lib/look-again";
 
 export const metadata = {
-  title: "The Means — Look Again Gallery",
+  title: "The Means — Look Again Online Exhibit",
 };
 
 export default function LookAgain() {
@@ -175,7 +175,7 @@ export default function LookAgain() {
         {lookAgainMeme1.length > 0 && <Gallery items={lookAgainMeme1} />}
         <h4>Meme 2: WAGMI</h4>
         {lookAgainMeme2.length > 0 && <Gallery items={lookAgainMeme1} />}
-        <h4>Meme 3: Don’t Let the Institutions Steal your JPEGS</h4>
+        <h4>Meme 3: Don't Let the Institutions Steal Your JPEGs</h4>
         {lookAgainMeme3.length > 0 && <Gallery items={lookAgainMeme1} />}
         <h4>Meme 4: gm</h4>
         {lookAgainMeme4.length > 0 && <Gallery items={lookAgainMeme1} />}
@@ -183,13 +183,13 @@ export default function LookAgain() {
         {lookAgainMeme5.length > 0 && <Gallery items={lookAgainMeme1} />}
         <h4>Meme 6: Open Metaverse/OM</h4>
         {lookAgainMeme6.length > 0 && <Gallery items={lookAgainMeme1} />}
-        <h4>Meme 7: Freedom to Transact Meme</h4>
+        <h4>Meme 7: Freedom to Transact</h4>
         {lookAgainMeme7.length > 0 && <Gallery items={lookAgainMeme1} />}
         <h4>Meme 8: Freestyle</h4>
         {lookAgainMeme8.length > 0 && <Gallery items={lookAgainMeme1} />}
         <h4>Meme 9: Survive</h4>
         {lookAgainMeme9.length > 0 && <Gallery items={lookAgainMeme1} />}
-        <h4>Meme 10: Not your Keys, not your coins</h4>
+        <h4>Meme 10: Not Your Keys, Not Your Coins</h4>
         {lookAgainMeme10.length > 0 && <Gallery items={lookAgainMeme1} />}
       </Section>
     </main>

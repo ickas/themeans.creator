@@ -8,14 +8,17 @@ export default function Navbar() {
     {
       title: "Home",
       url: ".",
+      highlight: false,
     },
     {
       title: "Minting Now",
-      url: "/szn2",
+      url: "/szn2mints",
+      highlight: false,
     },
     {
-      title: "Look Again",
-      url: "/look-again",
+      title: "Look Again - Online Exhibit",
+      url: "/lookagainonlineexhibit",
+      highlight: true,
     },
   ];
 
