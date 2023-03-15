@@ -175,7 +175,7 @@ export default function LookAgain() {
         {lookAgainMeme1.length > 0 && <Gallery items={lookAgainMeme1} />}
         <h4>Meme 2: WAGMI</h4>
         {lookAgainMeme2.length > 0 && <Gallery items={lookAgainMeme1} />}
-        <h4>Meme 3: Don't Let the Institutions Steal Your JPEGs</h4>
+        <h4>Meme 3: Don&apos;t Let the Institutions Steal Your JPEGs</h4>
         {lookAgainMeme3.length > 0 && <Gallery items={lookAgainMeme1} />}
         <h4>Meme 4: gm</h4>
         {lookAgainMeme4.length > 0 && <Gallery items={lookAgainMeme1} />}
