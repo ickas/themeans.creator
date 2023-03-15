@@ -1,0 +1,40 @@
+.button {
+  width: max-content;
+  height: 2.125rem;
+  border-radius: 0.25rem; /* 4px */
+  background-color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 0.9375rem;
+  color: var(--black);
+  font-size: var(--fontSizeM);
+  letter-spacing: 0.0625rem;
+  text-decoration: none;
+}
+
+.button svg {
+  width: auto;
+  height:24px;
+  margin-right: 0.3125rem;
+  fill: var(--black);
+}
+
+.button.xl {
+  padding: 2.5rem; /* 30px */
+  font-size: var(--fontSizeL);
+  text-transform: uppercase;
+}
+
+.button.blue {
+  background-color: var(--blue500);
+  color: var(--white);
+}
+
+.button:hover {
+  background-color: var(--grey150);
+}
+
+.button.blue:hover {
+  background-color: var(--blue600);
+}

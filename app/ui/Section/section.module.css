@@ -1,0 +1,9 @@
+.section {
+  margin: var(--sectionMargin) auto 0 auto;
+  max-width: var(--layoutMaxWidth);
+  line-height: 1.5;
+}
+
+.section h2 {
+  margin-bottom: var(--sectionInsideMargin);
+}

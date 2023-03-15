@@ -1,0 +1,24 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: var(--layoutMaxWidth);
+  padding: 0 var(--sidePadding);
+}
+
+.hero {
+  margin-bottom: var(--sectionMargin);
+  padding-top: calc(var(--sectionMargin) + var(--navbarHeight));
+}
+
+.hero h1 {
+  margin-bottom: var(--sectionInsideMargin);
+}
+
+.hero a {
+  color: var(--blue500);
+  text-decoration: none;
+  transition-duration: var(--hoverTransitionDuration);
+}
+
+.hero a:hover {
+  color: var(--blue600);
+}

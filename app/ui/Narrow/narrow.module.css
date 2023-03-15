@@ -1,0 +1,7 @@
+.wrapper {
+  max-width: 50rem; /* 800px */
+}
+
+.wrapper:not(:last-child) {
+  margin-bottom: var(--sectionInsideMargin);
+}
