@@ -62,6 +62,15 @@ export const szn2 = [
     startDate: "2023-03-13",
     endDate: "2023-06-12",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/89d64070b22ab1d35fdda462f788ec81dd2f5ea540388d27c7a8796e473ff33e.jpg",
+    name: "1 Billion Nouns",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card8",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/12/",
+    startDate: "2023-03-17",
+    endDate: "2023-06-17",
+  },
   {
     image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
