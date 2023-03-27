@@ -80,7 +80,7 @@ export const szn2 = [
     startDate: "2023-03-20",
     endDate: "2023-06-20",
   },
-    {
+  {
     image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/c655bd3d4c54359cf655e880ba87f0432fdeaa38344ddcc02b2f6ef549c97ba5.jpg",
     name: "Gm Freely",
@@ -88,6 +88,15 @@ export const szn2 = [
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/14/",
     startDate: "2023-03-22",
     endDate: "2023-06-22",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/84c9c19f2bfa215ff46e97b05d45156f9a0e872641803e1f08f5a9d5ed6dfbd8.jpg",
+    name: "Ser Richard C. Butt",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card11",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/15/",
+    startDate: "2023-03-27",
+    endDate: "2023-06-27",
   },
   {
     image:
