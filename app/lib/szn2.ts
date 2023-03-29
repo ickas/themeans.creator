@@ -100,6 +100,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/1ee3235f5cfd666d89d9717f6ff79f4b208f4a2592d95bd8afd92bedc727e0cc.jpg",
+    name: "The Provenance",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card12",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/16/",
+    startDate: "2023-03-29",
+    endDate: "2023-06-29",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
