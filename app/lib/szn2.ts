@@ -109,6 +109,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/392dbb7fcd80922c7e76e6360eb045ea84d6e1e045c4322d88b55379bd7a78b9.jpg",
+    name: "REvolution",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card13",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/17/",
+    startDate: "2023-03-31",
+    endDate: "2023-07-01",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
