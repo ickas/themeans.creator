@@ -127,6 +127,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/aa9fa713e907b38cb3ab21a239fd95d79ede4790045ec19d71227dc2b9bc609d.jpg",
+    name: "Working Daydreams",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card15",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/20",
+    startDate: "2023-04-05",
+    endDate: "2023-07-04",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
@@ -142,5 +151,14 @@ export const szn2 = [
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/8",
     startDate: "2023-03-10",
     endDate: "2023-06-10",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/e083a37c9dbab1d383126148138b4f3215393c89aea772c7439e7e0570f1754c.jpg",
+    name: "Free Claim - Seize The Memes - Beeple ReMemes Elon Musk",
+    url: "https://app.manifold.xyz/c/MeansBeepleReMemesElon",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/19/",
+    startDate: "2023-04-04",
+    endDate: "2023-07-03",
   },
 ];
