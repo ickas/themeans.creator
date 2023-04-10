@@ -179,4 +179,13 @@ export const szn2 = [
     startDate: "2023-04-04",
     endDate: "2023-07-03",
   },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/5bf248e91c47a93007c9d3c60f20c3906e360b3f51dd89411fe07d5d224f2a83.jpg",
+    name: "AGORA and RCS ReMeme Gallery on OM Visitor 'POAP'",
+    url: "https://app.manifold.xyz/c/AGORAVisitor",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/28/",
+    startDate: "2023-04-10",
+    endDate: "2023-07-10",
+  },
 ];
