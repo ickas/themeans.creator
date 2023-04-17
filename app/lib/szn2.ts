@@ -172,6 +172,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/489c381a9131719b1747281165b0a24b6adaac7f03726557edd85d2f4244b89c.jpg",
+    name: "We The Artists",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card20",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/25/",
+    startDate: "2023-04-17",
+    endDate: "2023-07-17",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
