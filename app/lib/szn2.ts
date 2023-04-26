@@ -190,12 +190,21 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/549ca110f040efec10d5809f8984ab6e0c9a9d95de15160bc9538ef61a313656.avif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/549ca110f040efec10d5809f8984ab6e0c9a9d95de15160bc9538ef61a313656.webp",
     name: "Unchained to the System",
     url: "https://app.manifold.xyz/c/MeansSzn2Card22",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/27/",
     startDate: "2023-04-21",
     endDate: "2023-07-21",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/ae09a8b4ae7f90ad347eb8bb437dea76a537490946ba464af7d7c6722eda9f8e.webp",
+    name: "Digital Rights are Right",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card23",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/29/",
+    startDate: "2023-04-26",
+    endDate: "2023-07-26",
   },
   {
     image:
