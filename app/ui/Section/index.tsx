@@ -1,5 +1,4 @@
 import styles from "./section.module.css";
-import { squadaOne } from "../../fonts";
 import { SectionProps } from "./types";
 
 export default function Section(props: SectionProps) {
@@ -7,7 +6,7 @@ export default function Section(props: SectionProps) {
 
   return (
     <section className={styles.section}>
-      {title && <h2 className={squadaOne.className}>{title}</h2>}
+      {title && <h2>{title}</h2>}
       {children}
     </section>
   );

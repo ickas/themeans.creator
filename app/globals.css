@@ -43,6 +43,7 @@ html {
 body {
   margin: 0;
   background-color: var(--black);
+  font-family: var(--font-open-sans), Verdana, Arial, Helvetica, sans-serif;
   font-size: var(--fontSizeM);
   font-weight: 400;
   color: var(--white);
@@ -54,6 +55,7 @@ main {
 
 h1, h2, h3 {
   margin: 0;
+  font-family: var(--font-squada-one);
   text-transform: uppercase;
   letter-spacing: 0.0625rem; /* 1px */
   text-align: left;
