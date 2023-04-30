@@ -1,15 +1,12 @@
-import AnaNovo from "/public/Ana_Novo.jpg";
-import SoniaTeles from "/public/MOJnfts.jpg";
-
 export const team = [
   {
-    avatar: AnaNovo,
+    avatar: "/Ana_Novo.jpg",
     name: "Ana Cristina Novo",
     twitter: "Ana_Novo",
     bio: "Designer, digital artist, NFT portfolio manager, physical miniature extraordinaire.",
   },
   {
-    avatar: SoniaTeles,
+    avatar: "/MOJnfts.jpg",
     name: "Sonia",
     twitter: "MOJnfts",
     bio: "Copywriter, idea-haver and stuff-doer.",
