@@ -1,7 +1,6 @@
 import Section from "../ui/Section";
 import Gallery from "../ui/Gallery";
 import styles from "./page.module.css";
-import { squadaOne } from "../fonts";
 import {
   lookAgainMeme1,
   lookAgainMeme2,
@@ -23,8 +22,8 @@ export default function LookAgain() {
   return (
     <main className={styles.wrapper}>
       <div className={styles.hero}>
-        <h1 className={squadaOne.className}>Look Again</h1>
-        <span className={squadaOne.className}>online exhibit</span>
+        <h1>Look Again</h1>
+        <span>online exhibit</span>
       </div>
       <Section>
         <div>

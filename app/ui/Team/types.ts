@@ -1,7 +1,7 @@
 import { StaticImageData } from "next/image";
 
 interface Team {
-  avatar: StaticImageData;
+  avatar: string;
   name: string;
   twitter: string;
   bio: string;

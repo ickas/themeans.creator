@@ -1,5 +1,5 @@
 import "./globals.css";
-import { openSans } from "./fonts";
+import { open_sans, squada_one } from "./fonts";
 import Navbar from "./ui/NavBar";
 import Footer from "./ui/Footer";
 
@@ -49,7 +49,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={openSans.className}>
+    <html lang="en" className={`${open_sans.variable} ${squada_one.variable}`}>
       <body>
         <Navbar />
         {children}
