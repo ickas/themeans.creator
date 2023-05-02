@@ -226,6 +226,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/90c8a86a2a767f100763f9539a6a290359380acab5576b11a9c772e73c90f551.webp",
+    name: "Freedom-filled Wallet",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card26",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/32/",
+    startDate: "2023-05-02",
+    endDate: "2023-08-02",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
