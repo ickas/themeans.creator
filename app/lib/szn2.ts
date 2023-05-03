@@ -235,6 +235,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/da4b7b536cea1c33b035f09784210d5eea98285221e8eea40ac49cee1ca3fe36.webp",
+    name: "Artist Survival Tactics",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card27",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/33/",
+    startDate: "2023-05-03",
+    endDate: "2023-08-03",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
