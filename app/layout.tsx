@@ -49,12 +49,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${open_sans.variable} ${squada_one.variable}`}>
-      <body>
+    <html lang="en">
+      <body className={`${open_sans.variable} ${squada_one.variable}`}>
         <Navbar />
         {children}
+        <Footer />
       </body>
-      <Footer />
     </html>
   );
 }
