@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Icon from "../Icon";
 import styles from "./buttonLink.module.css";
-import { squadaOne } from "../../fonts";
 import { ButtonLinkProps } from "./types";
 
 export default function ButtonLink(props: ButtonLinkProps) {
@@ -16,9 +15,9 @@ export default function ButtonLink(props: ButtonLinkProps) {
 
   return (
     <Link
-      className={`${squadaOne.className} ${styles.button} ${
-        xl ? styles.xl : ""
-      } ${blue ? styles.blue : ""}`}
+      className={`${styles.button} ${xl ? styles.xl : ""} ${
+        blue ? styles.blue : ""
+      }`}
       href={url}
       target={target}
       rel={target === "_blank" ? "noopener noreferrer" : undefined}

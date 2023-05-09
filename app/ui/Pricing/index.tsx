@@ -1,15 +1,12 @@
 import styles from "./pricing.module.css";
-import { squadaOne } from "../../fonts";
 
 export default function Pricing() {
   return (
     <div className={styles.wrapper}>
       <div>
         <div className={styles.title}>
-          <h3 className={squadaOne.className}>The Means</h3>
-          <span className={`${squadaOne.className} ${styles.price}`}>
-            0.02008 ETH
-          </span>
+          <h3>The Means</h3>
+          <span className={styles.price}>0.02008 ETH</span>
           <br />
           <span className={styles.desc}>
             Year the Satoshi Nakamoto bitcoin white paper came out
@@ -26,10 +23,8 @@ export default function Pricing() {
       </div>
       <div>
         <div className={styles.title}>
-          <h3 className={squadaOne.className}>What Do You Mean?</h3>
-          <span className={`${squadaOne.className} ${styles.price}`}>
-            0.01994 ETH
-          </span>
+          <h3>What Do You Mean?</h3>
+          <span className={styles.price}>0.01994 ETH</span>
           <br />
           <span className={styles.desc}>Vitalik Buterin’s year of birth</span>
         </div>

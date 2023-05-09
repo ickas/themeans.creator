@@ -6,16 +6,13 @@ import Pricing from "./ui/Pricing";
 import styles from "./page.module.css";
 import { links } from "./lib/links";
 import { team } from "./lib/team";
-import { squadaOne } from "./fonts";
 
 export default function Home() {
   return (
     <main className={styles.wrapper}>
       <div className={styles.hero}>
-        <h1 className={squadaOne.className}>The Means</h1>
-        <span className={squadaOne.className}>
-          Connecting The Memes with their Meaning.
-        </span>
+        <h1>The Means</h1>
+        <span>Connecting The Memes with their Meaning.</span>
         <ButtonLink
           value="View on OpenSea"
           url="https://opensea.io/themeanscreator"
@@ -149,7 +146,7 @@ export default function Home() {
             <span className="author">Punk 6529</span>
           </blockquote>
         </Narrow>
-        <div className={`${squadaOne.className} ${styles.footerNote}`}>
+        <div className={styles.footerNote}>
           <span>Meaning.</span>
           <br />
           <span>Welcome to The Means.</span>

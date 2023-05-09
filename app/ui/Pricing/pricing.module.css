@@ -6,6 +6,7 @@
 }
 
 .price {
+  font-family: var(--font-squada-one);
   font-size: var(--fontSizeXl);
   line-height: 1;
   color: var(--white);

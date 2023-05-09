@@ -190,12 +190,57 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/549ca110f040efec10d5809f8984ab6e0c9a9d95de15160bc9538ef61a313656.avif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/549ca110f040efec10d5809f8984ab6e0c9a9d95de15160bc9538ef61a313656.webp",
     name: "Unchained to the System",
     url: "https://app.manifold.xyz/c/MeansSzn2Card22",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/27/",
     startDate: "2023-04-21",
     endDate: "2023-07-21",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/ae09a8b4ae7f90ad347eb8bb437dea76a537490946ba464af7d7c6722eda9f8e.webp",
+    name: "Digital Rights are Right",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card23",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/29/",
+    startDate: "2023-04-26",
+    endDate: "2023-07-26",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/503210940b1ebb0d2399f73574f3c640ccd4dcfc9c9c91899002cdff025f05ed.webp",
+    name: "Greedy Art",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card24",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/30/",
+    startDate: "2023-04-27",
+    endDate: "2023-07-27",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/d1fbea5eeea4bff1b76492975d76df7f5150b9203326deef526f03975e29dc0d.webp",
+    name: "Rare-Sakura",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card25",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/31/",
+    startDate: "2023-04-28",
+    endDate: "2023-07-28",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/90c8a86a2a767f100763f9539a6a290359380acab5576b11a9c772e73c90f551.webp",
+    name: "Freedom-filled Wallet",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card26",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/32/",
+    startDate: "2023-05-02",
+    endDate: "2023-08-02",
+  },
+  {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/da4b7b536cea1c33b035f09784210d5eea98285221e8eea40ac49cee1ca3fe36.webp",
+    name: "Artist Survival Tactics",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card27",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/33/",
+    startDate: "2023-05-03",
+    endDate: "2023-08-03",
   },
   {
     image:

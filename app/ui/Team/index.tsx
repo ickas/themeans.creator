@@ -16,7 +16,6 @@ export default function Team(props: TeamProps) {
               height={120}
               src={member.avatar}
               alt={member.name}
-              placeholder="blur"
             />
           </div>
           <div>
