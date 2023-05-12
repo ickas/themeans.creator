@@ -244,6 +244,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://arweave.net/vWT9B5OFkkj85Nd4AtWeKhPVvRlLNxDKEuP7F0FknmQ",
+    name: "Wine & WAGMI",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card28",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/34",
+    startDate: "2023-05-12",
+    endDate: "2023-08-12",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
