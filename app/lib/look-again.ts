@@ -96,9 +96,82 @@ export const lookAgainMeme1 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432178261143322666/",
   },
 ];
-
-export const lookAgainMeme2 = [];
-export const lookAgainMeme3 = [];
+export const lookAgainMeme2 = [
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+    name: "rekt6529",
+    artist: "OSF",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/5/",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/84b6b069b6ef63bd71e940f75e9abac9.png?auto=format&dpr=1&w=1000",
+    name: "Rekt",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432172763585183800/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/19.MP4",
+    name: "Play the Game",
+    artist: "Simone Monte & 6529er",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/19/",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/4a8f30d430f1bfffc3e311842ee56465.png?auto=format&dpr=1&w=1000",
+    name: "Feel the Game",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432216744050294880/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/31.MP4",
+    name: "WAGMI?",
+    artist: "Kaejunni",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/31/",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/40858493c3597b14ea738b7160250551.png?auto=format&dpr=1&w=1000",
+    name: "Are WAGMI?",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432198052352622638/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/44.WEBP",
+    name: "Vibe Check",
+    artist: "Drift",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/44/",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/01b26616464a8e0692942cff2c8fb501.png?auto=format&dpr=1&w=1000",
+    name: "Vibe",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432177161631694924/",
+  },
+];
+export const lookAgainMeme3 = [
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
+    name: "The Institutions are Coming",
+    artist: "6529er",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/9/",
+  },
+  {
+    image: "https://i.seadn.io/gae/JqQLvlOsFRQ0fu_ah71hcwVLxM6HfhpJrUKHY4ZcfCM228gQUQj7zaEKupYpLn_lDF-TTy7Wc0qirw5-Qt3_b0jo184XoxujC4qu?auto=format&dpr=1&w=1000",
+    name: "Institutions",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432167266027044916/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/22.GIF",
+    name: "JPGs are Infinite",
+    artist: "Seerlight",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/22/",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/6e677d40943e24cbcede84066d1002fc.png?auto=format&dpr=1&w=1000",
+    name: "JPEGs",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432195853329367109/",
+  },
+];
 export const lookAgainMeme4 = [];
 export const lookAgainMeme5 = [];
 export const lookAgainMeme6 = [];
