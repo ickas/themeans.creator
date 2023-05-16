@@ -54,9 +54,21 @@ export const lookAgainMeme1 = [
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/29/",
   },
   {
+    image: "https://i.seadn.io/gae/VhcUhOsXAJct6BZHvU6sgIP2U9Uvughdlc5dJQU2g6EVvEZMUJeo88adNvvtt3qZwZxYAACTTJO16Ipvg3HMzClt_CVWgIr6F8B9D5s?auto=format&dpr=1&w=1000",
+    name: "Seizebees",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432161768468906030/",
+  },
+  {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/38.GIF",
     name: "Seize the Carpoolers",
     artist: "Alejandro Cartagena and Adrian de la Garza",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/38/",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/d999d774cabca08b84818397ce508064.png?auto=format&dpr=1&w=1000",
+    name: "Carpoolers",
+    artist: "The Means",
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/38/",
   },
   {
@@ -66,10 +78,22 @@ export const lookAgainMeme1 = [
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/39/",
   },
   {
+    image: "https://i.seadn.io/gcs/files/94a2295aff0171f59858437ead72860c.png?auto=format&dpr=1&w=1000",
+    name: "The Cats are Free",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432207947957272672/",
+  },
+  {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
     name: "EXIT STRATEGY",
     artist: "XCOPY",
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/47/",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/61758005f4e3f31d5ac60f71d1eb1151.png?auto=format&dpr=1&w=1000",
+    name: "EXIT",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432178261143322666/",
   },
 ];
 
