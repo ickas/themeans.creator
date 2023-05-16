@@ -23,6 +23,54 @@ export const lookAgainMeme1 = [
     artist: "The Means",
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432154071887511652/",
   },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+    name: "UncleSeize",
+    artist: "6529er",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/3/",
+  },
+  {
+    image: "https://i.seadn.io/gae/TXsUEpwkTf0dCFUq-ZY5NsAN4QyUEJiFBdQDHV5V7jFuiIaEkxxQLUqDxSi-8d4-xc1LQ1-ko4jssRf0n9i578YMeOlpVq5FtaqslA?auto=format&amp;dpr=1&amp;w=1000",
+    name: "Uncle",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432155171399139428/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/6.WEBP",
+    name: "DALL-E's Revenge",
+    artist: "ACK",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/6/",
+  },
+  {
+    image: "https://i.seadn.io/gae/SiKZvDgfSJea-GdlaicOlXtqcEO7PdLIROcs8y3NZDZ2MgDO9stIub91HJPTb8VTbzuFAMqyOSBMkrfXiz1JqXwkVm02Vt6_DJHW?auto=format&dpr=1&w=1000",
+    name: "DALL-E's",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432156270910767146/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/29.WEBP",
+    name: "Seize the Bees of Production",
+    artist: "6529er & 6529",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/29/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/38.GIF",
+    name: "Seize the Carpoolers",
+    artist: "Alejandro Cartagena and Adrian de la Garza",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/38/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/39.WEBP",
+    name: "MEowMEow Alley",
+    artist: "Kristy Glas",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/39/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
+    name: "EXIT STRATEGY",
+    artist: "XCOPY",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/47/",
+  },
 ];
 
 export const lookAgainMeme2 = [];
