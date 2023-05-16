@@ -110,7 +110,7 @@ export const lookAgainMeme2 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432172763585183800/",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/19.MP4",
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/19.WEBP",
     name: "Play the Game",
     artist: "Simone Monte & 6529er",
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/19/",
@@ -122,7 +122,7 @@ export const lookAgainMeme2 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432216744050294880/",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/31.MP4",
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/31.WEBP",
     name: "WAGMI?",
     artist: "Kaejunni",
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/31/",
