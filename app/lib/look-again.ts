@@ -173,23 +173,41 @@ export const lookAgainMeme3 = [
   },
 ];
 export const lookAgainMeme4 = [
-  {
+   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/8.WEBP",
     name: "FirstGM",
     artist: "6529",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/8",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10.WEBP",
+    image: "https://i.seadn.io/gcs/files/f70cce447cc823779ff7586e0cc8ad9f.png?auto=format&dpr=1&w=1000",
+    name: "FIRSTGM",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432171664073556362/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/10.MP4",
     name: "A Meditation on GM",
     artist: "Ayla El-Moussa",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10",
   },
   {
-    image: "https://rz4iaxop7jhfdpcm33yn3tdeq5phykyhyr6i2mtebvvwmmhsuaxq.arweave.net/jniAXc_6TlG8TN7w3cxkh158KwfEfI0yZA1rZjDyoC8",
+    image: "https://i.seadn.io/gae/ULZOvlsQto3gm7TRxPDLJix_0OTAhWZRVnWWZeAUW0mIgJGAp-sfU3T8JAjS1XZ0hMCcC5V6j2NvCtxNunzJyHNtkrbMOflUi1dA?auto=format&dpr=1&w=1000",
+    name: "Meditation",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432160668957278255/",
+  },
+  {
+    image: "https://arweave.net/jniAXc_6TlG8TN7w3cxkh158KwfEfI0yZA1rZjDyoC8",
     name: "BlueGM",
     artist: "Priyanka",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/13",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/b6999a141eee69d4b623e4209669dc4c.png?auto=format&dpr=1&w=1000",
+    name: "Blue",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432191455282855975/",
   },
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/14.WEBP",
@@ -198,10 +216,22 @@ export const lookAgainMeme4 = [
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/14",
   },
   {
+    image: "https://i.seadn.io/gcs/files/64cb23a2d36098033e3ca6c7cb93fecf.png?auto=format&dpr=1&w=1000",
+    name: "GMers",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432221142096805944/",
+  },
+  {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/15.WEBP",
     name: "GM to Death",
     artist: "ALIENQUEEN",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/15",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/c4f41e8b41a18ca9b5a14b8e21769f4b.png?auto=format&dpr=1&w=1000",
+    name: "GMdeath",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432183758701461580/",
   },
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/27.WEBP",
@@ -210,10 +240,22 @@ export const lookAgainMeme4 = [
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/27",
   },
   {
+    image: "https://i.seadn.io/gcs/files/190f09b4d40882d3faa502059ba63bbf.png?auto=format&dpr=1&w=1000",
+    name: "Beautiful CC0 x 6529",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432223341120061528/",
+  },
+  {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/34.WEBP",
     name: "GM Indonesia",
     artist: "Jord Hammond",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/34",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/b2b31aaee238714a0846530e8432ee6b.png?auto=format&dpr=1&w=1000",
+    name: "GM World",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432211246492155940/",
   },
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/40.WEBP",
@@ -222,10 +264,22 @@ export const lookAgainMeme4 = [
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/40",
   },
   {
+    image: "https://i.seadn.io/gcs/files/1f3730881dab8446c6842fd2252fc187.png?auto=format&dpr=1&w=1000",
+    name: "Morning",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432179360654950466/",
+  },
+  {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/41.WEBP",
     name: "Cereal Gmer",
     artist: "Daria Klepikova",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/41",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/b77ffcd96ea6dca64e47452cd6c47d25.png?auto=format&dpr=1&w=1000",
+    name: "Cereal",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432169465050300498/",
   },
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/46.WEBP",
@@ -233,6 +287,13 @@ export const lookAgainMeme4 = [
     artist: "Rik Oostenbroek",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/46",
   },
+  {
+    image: "https://i.seadn.io/gcs/files/943b3d80335a391769282312966e0c32.png?auto=format&dpr=1&w=1000",
+    name: "GMGNers",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432213445515411517/",
+  },
+
 ];
 export const lookAgainMeme5 = [];
 export const lookAgainMeme6 = [];
