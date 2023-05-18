@@ -160,7 +160,7 @@ export const lookAgainMeme3 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432167266027044916/",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/22.GIF",
+    image: "https://i.seadn.io/gcs/files/82fdd4707f31cf73cd80060cc29deda9.gif?auto=format&dpr=1&w=1000",
     name: "JPGs are Infinite",
     artist: "Seerlight",
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/22/",
@@ -180,13 +180,13 @@ export const lookAgainMeme4 = [
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/8",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/10.MP4",
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10.WEBP",
     name: "A Meditation on GM",
     artist: "Ayla El-Moussa",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10",
   },
   {
-    image: "https://arweave.net/jniAXc_6TlG8TN7w3cxkh158KwfEfI0yZA1rZjDyoC8",
+    image: "https://rz4iaxop7jhfdpcm33yn3tdeq5phykyhyr6i2mtebvvwmmhsuaxq.arweave.net/jniAXc_6TlG8TN7w3cxkh158KwfEfI0yZA1rZjDyoC8",
     name: "BlueGM",
     artist: "Priyanka",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/13",
