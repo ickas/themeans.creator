@@ -315,7 +315,7 @@ export const lookAgainMeme5 = [
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/28",
   },
   {
-    image: " https://i.seadn.io/gcs/files/3ab716ebe5ef91cf32019fc0f89e88c5.png?auto=format&dpr=1&w=1000",
+    image: "https://i.seadn.io/gcs/files/3ab716ebe5ef91cf32019fc0f89e88c5.png?auto=format&dpr=1&w=1000",
     name: "UGH!",
     artist: "The Means",
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432212346003783722/ ",
@@ -435,15 +435,15 @@ export const lookAgainMeme6 = [
     artist: "Scobelhttps://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21",
     url: "",
   },  {
-    image: " https://i.seadn.io/gcs/files/324a5cff028917e58073ff6e5356c4fd.png?auto=format&dpr=1&w=1000 ",
+    image: "https://i.seadn.io/gcs/files/324a5cff028917e58073ff6e5356c4fd.png?auto=format&dpr=1&w=1000",
     name: "On the Road",
     artist: "The Means",
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432217843561922615/",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/23.MP4",
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23.WEBP",
     name: "Fight for the Open Metaverse",
-    artist: "Neon Glitch 86",
+    artist: "NeonGlitch86",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23",
   },  
 {
@@ -564,10 +564,10 @@ export const lookAgainMeme8 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432203549910761568/",
   },
 {
-    image: " https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35.WEBP ",
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35.WEBP",
     name: "Meet Summer Glasses",
     artist: "NeonGlitch86 & 6529er",
-    url: " https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35 ",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35",
   },
 {
     image: "https://i.seadn.io/gcs/files/c605bdc3fa1756667165a85e51fa495a.png?auto=format&dpr=1&w=1000",
