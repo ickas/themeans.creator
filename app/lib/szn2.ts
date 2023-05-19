@@ -244,7 +244,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://arweave.net/vWT9B5OFkkj85Nd4AtWeKhPVvRlLNxDKEuP7F0FknmQ",
+      "https://xvsp2b4tqwjer7he254afvm6fij5lpizjm3rbsqs4p5roqletzsa.arweave.net/vWT9B5OFkkj85Nd4AtWeKhPVvRlLNxDKEuP7F0FknmQ",
     name: "Wine & WAGMI",
     url: "https://app.manifold.xyz/c/MeansSzn2Card28",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/34",
