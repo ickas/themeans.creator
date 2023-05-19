@@ -295,10 +295,287 @@ export const lookAgainMeme4 = [
   },
 
 ];
-export const lookAgainMeme5 = [];
-export const lookAgainMeme6 = [];
-export const lookAgainMeme7 = [];
-export const lookAgainMeme8 = [];
+export const lookAgainMeme5 = [
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/20.WEBP",
+    name: "Hardware Wallet and Mug",
+    artist: "Helena Sarin",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/20",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/b70619e3366ae9ff1001ce9900241a9e.png?auto=format&dpr=1&w=1000",
+    name: "Mug",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432182659189833794/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/28.GIF", 
+    name: "!UGH",
+    artist: "JakNFT",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/28",
+  },
+  {
+    image: " https://i.seadn.io/gcs/files/3ab716ebe5ef91cf32019fc0f89e88c5.png?auto=format&dpr=1&w=1000",
+    name: "UGH!",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432212346003783722/ ",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/32.WEBP",
+    name: "You Can’t Touch This",
+    artist: "Natalie Shau",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/32",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/5fe1a1f95b74feb43d1a454bfe61fb5c.png?auto=format&dpr=1&w=1000",
+    name: "You",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432174962608439335/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
+    name: "Feeling Lucky?",
+    artist: "6529er",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33",
+  },
+  {
+    image: "https://i.seadn.io/gcs/files/33a91acf045fe7e3ebae81807d0ddfd1.png?auto=format&dpr=1&w=1000",
+    name: "Lucky",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432190355771228202/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/42.WEBP",
+    name: "FTXPepe",
+    artist: "6529er & 6529",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/42",
+  }, 
+  {
+    image: "https://i.seadn.io/gae/6Qq_ffsmADaQcg2DgvBrnN68JpSy517W2u9uOlvsQgyaalJSf-CRzMprkJaoXWmCokArJTabBGn5iBLdPcPUaKIJHc2TMa2YeLjHjGo?auto=format&dpr=1&w=1000",
+    name: "FTX",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432163967492161686/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/43.WEBP",
+    name: "TRASHOR",
+    artist: "ROBNESS + PEEPS",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/43",
+  },  {
+    image: "https://i.seadn.io/gcs/files/daa877e98b40a15d9b100c8077b96eb8.png?auto=format&dpr=1&w=1000",
+    name: "SAFU Trash",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432222241608433763/",
+  },
+];
+export const lookAgainMeme6 = [
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/11.GIF", 
+    name: "CyberMetaverse",
+    artist: "Cyber Humanoid",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/11",
+  },  
+ {
+    image: "https://i.seadn.io/gcs/files/300fe06e9f591cacd5477162c7f474ad.jpg?auto=format&dpr=1&w=1000",
+    name: "Cyber",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432168365538672682/",
+  }, 
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/12.WEBP", 
+    name: "OM Seized",
+    artist: "Rakesh Pulapa",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/12",
+  },  
+ {
+    image: "https://i.seadn.io/gcs/files/2aed944a590c76f49947bc87bab41591.png?auto=format&dpr=1&w=1000",
+    name: "OMSeize",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432188156747972647/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/16.WEBP",
+    name: "OMbuidling",
+    artist: "Tony Sellen",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/16",
+  }, 
+  {
+    image: "https://i.seadn.io/gcs/files/a8d720c44443a60ed191c69fd608c03a.png?auto=format&dpr=1&w=1000",
+    name: "Open",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432201350887505976/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/17.WEBP",
+    name: "Awakening OM",
+    artist: "Apocalypse Art",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/17",
+  },  
+ {
+    image: "https://i.seadn.io/gcs/files/599c51e661c495eced5ceebc739e581b.png?auto=format&dpr=1&w=1000",
+    name: "Awakening",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432173863096811586/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/18.WEBP",
+    name: "OM Breakdown of the Bicameral Mind",
+    artist: "Deconstruct",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/18",
+  }, 
+  {
+    image: "https://i.seadn.io/gcs/files/f5728bde79e7432706ed78a5ae1c9585.png?auto=format&dpr=1&w=1000",
+    name: "Ombreakdown",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432180460166578272/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21.WEBP", 
+    name: "Open Roads, Open Metaverse",
+    artist: "Scobelhttps://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21",
+    url: "",
+  },  {
+    image: " https://i.seadn.io/gcs/files/324a5cff028917e58073ff6e5356c4fd.png?auto=format&dpr=1&w=1000 ",
+    name: "On the Road",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432217843561922615/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/videos/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/scaledx750/23.MP4",
+    name: "Fight for the Open Metaverse",
+    artist: "Neon Glitch 86",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23",
+  },  
+{
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23.WEBP",
+    name: "Fight",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432187057236344888/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/26.WEBP",
+    name: "100 Trillion Stars, 100 Trillion People",
+    artist: "Ty Lekki",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/26/",
+  },  
+{
+    image: "https://i.seadn.io/gcs/files/e8a929ffb7f81c6765963066cdb62fc2.png?auto=format&dpr=1&w=1000",
+    name: "100TRILLION",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432199151864250444/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/30.WEBP",
+    name: "Human Intelligence Generated OM",
+    artist: "Hugo Faz",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/30",
+  },  
+{
+    image: "https://i.seadn.io/gcs/files/68af6bbdcc143bff5be818866ccb4b64.png?auto=format&dpr=1&w=1000",
+    name: "Human",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432194753817739360/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/36.WEBP",
+    name: "Sphere of Influence",
+    artist: "WetPotatoBrain",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/36",
+  },  {
+    image: "https://i.seadn.io/gcs/files/01daf51fad84122765dcfaf40e8c5c48.png?auto=format&dpr=1&w=1000",
+    name: "Sphere",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432224440631689262/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/45.WEBP",
+    name: "Beyond the Horizon",
+    artist: "Tommy Wilson",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/45",
+  },  
+{
+    image: "https://i.seadn.io/gcs/files/ca2c3dd5e1a55f4534a051e9e5d31884.png?auto=format&dpr=1&w=1000",
+    name: "Horizon",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432209047468900433/",
+  },
+];
+export const lookAgainMeme7 = [
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
+    name: "NakamotoFreedom",
+    artist: "6529er",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4",
+  },  
+ {
+    image: "https://i.seadn.io/gcs/files/ce8a64a9a512bb6866dfd19a3ebff259.png?auto=format&dpr=1&w=1000",
+    name: "NakamotoRights",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432226639654944798/",
+  },
+  {
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+    name: "Sgt. Pepe",
+    artist: "Arsonic",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37",
+  }, 
+ {
+    image: "https://i.seadn.io/gcs/files/abf7b528af121ea7336cc09d70ca69bf.png?auto=format&dpr=1&w=1000",
+    name: "Pepe",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432185957724717098/",
+  },
+];
+export const lookAgainMeme8 = [
+{
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/7.WEBP",
+    name: "Aeroglyph6529",
+    artist: "Reuben Wu",
+    url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/7/",
+  },
+{
+    image: "https://i.seadn.io/gcs/files/d252e7bd3b65b0e23a3d4932f0dd6187.png?auto=format&dpr=1&w=1000",
+    name: "Aero6529",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432218943073550417/",
+  },
+{
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/24.WEBP",
+    name: "NFT Adoption Pathway 2030",
+    artist: "6529",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/24",
+  },
+{
+    image: "https://i.seadn.io/gcs/files/5de04fb06b1a5c4d770b08ec915486a2.png?auto=format&dpr=1&w=1000",
+    name: "NFT Pathway",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432204649422389290/",
+  },
+{
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25.WEBP", 
+    name: "Authentic Summer",
+    artist: "6529er",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25",
+  },
+{
+    image: "https://i.seadn.io/gcs/files/7456f4ff15c32a263020c701c22d79d5.png?auto=format&dpr=1&w=1000",
+    name: "Authentic Complainooor",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432203549910761568/",
+  },
+{
+    image: " https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35.WEBP ",
+    name: "Meet Summer Glasses",
+    artist: "NeonGlitch86 & 6529er",
+    url: " https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35 ",
+  },
+{
+    image: "https://i.seadn.io/gcs/files/c605bdc3fa1756667165a85e51fa495a.png?auto=format&dpr=1&w=1000",
+    name: "VISIONaries",
+    artist: "The Means",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432225540143317034/",
+  },
+];
 export const lookAgainMeme9 = [];
 export const lookAgainMeme10 = [];
 export const lookAgainMeme11 = [];
