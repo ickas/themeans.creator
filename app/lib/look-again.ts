@@ -96,6 +96,7 @@ export const lookAgainMeme1 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432178261143322666/",
   },
 ];
+
 export const lookAgainMeme2 = [
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
@@ -146,6 +147,7 @@ export const lookAgainMeme2 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432177161631694924/",
   },
 ];
+
 export const lookAgainMeme3 = [
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
@@ -172,6 +174,7 @@ export const lookAgainMeme3 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432195853329367109/",
   },
 ];
+
 export const lookAgainMeme4 = [
    {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/8.WEBP",
@@ -295,6 +298,7 @@ export const lookAgainMeme4 = [
   },
 
 ];
+
 export const lookAgainMeme5 = [
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/20.WEBP",
@@ -309,7 +313,7 @@ export const lookAgainMeme5 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432182659189833794/",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/28.GIF", 
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/28.GIF",
     name: "!UGH",
     artist: "JakNFT",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/28",
@@ -349,7 +353,7 @@ export const lookAgainMeme5 = [
     name: "FTXPepe",
     artist: "6529er & 6529",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/42",
-  }, 
+  },
   {
     image: "https://i.seadn.io/gae/6Qq_ffsmADaQcg2DgvBrnN68JpSy517W2u9uOlvsQgyaalJSf-CRzMprkJaoXWmCokArJTabBGn5iBLdPcPUaKIJHc2TMa2YeLjHjGo?auto=format&dpr=1&w=1000",
     name: "FTX",
@@ -368,25 +372,26 @@ export const lookAgainMeme5 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432222241608433763/",
   },
 ];
+
 export const lookAgainMeme6 = [
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/11.GIF", 
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/11.GIF",
     name: "CyberMetaverse",
     artist: "Cyber Humanoid",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/11",
-  },  
+  },
  {
     image: "https://i.seadn.io/gcs/files/300fe06e9f591cacd5477162c7f474ad.jpg?auto=format&dpr=1&w=1000",
     name: "Cyber",
     artist: "The Means",
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432168365538672682/",
-  }, 
+  },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/12.WEBP", 
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/12.WEBP",
     name: "OM Seized",
     artist: "Rakesh Pulapa",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/12",
-  },  
+  },
  {
     image: "https://i.seadn.io/gcs/files/2aed944a590c76f49947bc87bab41591.png?auto=format&dpr=1&w=1000",
     name: "OMSeize",
@@ -398,7 +403,7 @@ export const lookAgainMeme6 = [
     name: "OMbuidling",
     artist: "Tony Sellen",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/16",
-  }, 
+  },
   {
     image: "https://i.seadn.io/gcs/files/a8d720c44443a60ed191c69fd608c03a.png?auto=format&dpr=1&w=1000",
     name: "Open",
@@ -410,7 +415,7 @@ export const lookAgainMeme6 = [
     name: "Awakening OM",
     artist: "Apocalypse Art",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/17",
-  },  
+  },
  {
     image: "https://i.seadn.io/gcs/files/599c51e661c495eced5ceebc739e581b.png?auto=format&dpr=1&w=1000",
     name: "Awakening",
@@ -422,7 +427,7 @@ export const lookAgainMeme6 = [
     name: "OM Breakdown of the Bicameral Mind",
     artist: "Deconstruct",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/18",
-  }, 
+  },
   {
     image: "https://i.seadn.io/gcs/files/f5728bde79e7432706ed78a5ae1c9585.png?auto=format&dpr=1&w=1000",
     name: "Ombreakdown",
@@ -430,11 +435,12 @@ export const lookAgainMeme6 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432180460166578272/",
   },
   {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21.WEBP", 
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21.WEBP",
     name: "Open Roads, Open Metaverse",
-    artist: "Scobelhttps://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21",
-    url: "",
-  },  {
+    artist: "Scobel",
+    url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21",
+  },
+  {
     image: "https://i.seadn.io/gcs/files/324a5cff028917e58073ff6e5356c4fd.png?auto=format&dpr=1&w=3840",
     name: "On the Road",
     artist: "The Means",
@@ -445,7 +451,7 @@ export const lookAgainMeme6 = [
     name: "Fight for the Open Metaverse",
     artist: "NeonGlitch86",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23",
-  },  
+  },
 {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23.WEBP",
     name: "Fight",
@@ -457,7 +463,7 @@ export const lookAgainMeme6 = [
     name: "100 Trillion Stars, 100 Trillion People",
     artist: "Ty Lekki",
     url: "https://opensea.io/assets/ethereum/0x33fd426905f149f8376e227d0c9d3340aad17af1/26/",
-  },  
+  },
 {
     image: "https://i.seadn.io/gcs/files/e8a929ffb7f81c6765963066cdb62fc2.png?auto=format&dpr=1&w=1000",
     name: "100TRILLION",
@@ -469,7 +475,7 @@ export const lookAgainMeme6 = [
     name: "Human Intelligence Generated OM",
     artist: "Hugo Faz",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/30",
-  },  
+  },
 {
     image: "https://i.seadn.io/gcs/files/68af6bbdcc143bff5be818866ccb4b64.png?auto=format&dpr=1&w=1000",
     name: "Human",
@@ -492,7 +498,7 @@ export const lookAgainMeme6 = [
     name: "Beyond the Horizon",
     artist: "Tommy Wilson",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/45",
-  },  
+  },
 {
     image: "https://i.seadn.io/gcs/files/ca2c3dd5e1a55f4534a051e9e5d31884.png?auto=format&dpr=1&w=1000",
     name: "Horizon",
@@ -500,13 +506,14 @@ export const lookAgainMeme6 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432209047468900433/",
   },
 ];
+
 export const lookAgainMeme7 = [
   {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
     name: "NakamotoFreedom",
     artist: "6529er",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4",
-  },  
+  },
  {
     image: "https://i.seadn.io/gcs/files/ce8a64a9a512bb6866dfd19a3ebff259.png?auto=format&dpr=1&w=1000",
     name: "NakamotoRights",
@@ -518,7 +525,7 @@ export const lookAgainMeme7 = [
     name: "Sgt. Pepe",
     artist: "Arsonic",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37",
-  }, 
+  },
  {
     image: "https://i.seadn.io/gcs/files/abf7b528af121ea7336cc09d70ca69bf.png?auto=format&dpr=1&w=1000",
     name: "Pepe",
@@ -526,6 +533,7 @@ export const lookAgainMeme7 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432185957724717098/",
   },
 ];
+
 export const lookAgainMeme8 = [
 {
     image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/7.WEBP",
@@ -552,7 +560,7 @@ export const lookAgainMeme8 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432204649422389290/",
   },
 {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25.WEBP", 
+    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x1000/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25.WEBP",
     name: "Authentic Summer",
     artist: "6529er",
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25",
@@ -576,6 +584,9 @@ export const lookAgainMeme8 = [
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432225540143317034/",
   },
 ];
+
 export const lookAgainMeme9 = [];
+
 export const lookAgainMeme10 = [];
+
 export const lookAgainMeme11 = [];
