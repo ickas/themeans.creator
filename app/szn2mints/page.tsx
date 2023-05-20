@@ -4,7 +4,7 @@ import styles from "./szn2.module.css";
 import Link from "next/link";
 
 export const metadata = {
-  title: "The Means — Minting Now SZN2",
+  title: "The Memes and their Means — Minting Now SZN2",
 };
 
 export default function TheMeansSzn2() {

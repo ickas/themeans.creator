@@ -16,8 +16,8 @@ export default function Navbar() {
       highlight: false,
     },
     {
-      title: "Look Again - Online Exhibit",
-      url: "/lookagainonlineexhibit",
+      title: "Meaned Memes",
+      url: "/meaned-memes",
       highlight: true,
     },
   ];

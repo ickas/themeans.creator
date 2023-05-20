@@ -3,7 +3,7 @@ import { open_sans, squada_one } from "./fonts";
 import Navbar from "./ui/NavBar";
 import Footer from "./ui/Footer";
 
-const title = "The Means";
+const title = "The Memes and their Means";
 const description = "The Means — connecting The Memes with their Meaning";
 
 export const metadata = {

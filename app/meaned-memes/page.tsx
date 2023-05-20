@@ -16,7 +16,7 @@ import {
 } from "@/app/lib/look-again";
 
 export const metadata = {
-  title: "The Means - 6529 & Memes Legacy Collection",
+  title: "The Memes and their Means - 6529 & Memes Legacy Collection",
 };
 
 export default function LookAgain() {
