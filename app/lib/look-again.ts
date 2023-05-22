@@ -453,7 +453,7 @@ export const lookAgainMeme6 = [
     url: "https://opensea.io/assets/ethereum/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23",
   },
 {
-    image: "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/23.WEBP",
+    image: "https://i.seadn.io/gcs/files/552595896ce5c1f9dee8bc649c759e63.png?auto=format&dpr=1&w=1000",
     name: "Fight",
     artist: "The Means",
     url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/89749659593897466821838212055205926765239153278206586590666432187057236344888/",
