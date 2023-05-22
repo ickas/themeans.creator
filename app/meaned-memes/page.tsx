@@ -23,8 +23,8 @@ export default function LookAgain() {
   return (
     <main className={styles.wrapper}>
       <div className={styles.hero}>
-        <h1>Look Again</h1>
-        <span>online exhibit</span>
+        <h1>The Memes</h1>
+        <span>and their Means</span>
       </div>
       <Section>
         <div>
