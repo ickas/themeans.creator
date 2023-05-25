@@ -277,6 +277,7 @@ export const szn2 = [
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/37",
     startDate: "2023-05-25",
     endDate: "2023-11-25",
+  },
   {
     image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
