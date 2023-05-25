@@ -271,6 +271,14 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/e3be072b096e25ff2dc123998f22ca9cb1136495272379f256ee0e9fb1d80209.webp",
+    name: "Battleground",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card31",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/37",
+    startDate: "2023-05-25",
+    endDate: "2023-11-25",
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
