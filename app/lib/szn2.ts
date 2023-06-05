@@ -307,6 +307,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/5c53836945a012c369b9b58a89de802b7a36de1f1883cf95fcde854422717419.webp",
+    name: "Mission 6529",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card35",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/41",
+    startDate: "2023-06-05",
+    endDate: "2023-12-05",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
