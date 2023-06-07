@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Logo from "../Logo";
+import { LogoMark } from "../Logo";
 import ButtonLink from "../ButtonLink";
 import styles from "./navbar.module.css";
 
@@ -27,7 +27,7 @@ export default function Navbar() {
       <div className={styles.container}>
         <div className={styles.menu}>
           <Link href="/">
-            <Logo />
+            <LogoMark />
           </Link>
           <ul>
             {menu.map((item, index) => (
