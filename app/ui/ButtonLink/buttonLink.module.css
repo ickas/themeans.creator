@@ -2,12 +2,12 @@
   width: max-content;
   height: 2.125rem;
   border-radius: 0.25rem; /* 4px */
-  background-color: var(--white);
+  background-color: var(--black);
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 0 0.9375rem;
-  color: var(--black);
+  color: var(--white);
   font-family: var(--font-squada-one);
   font-size: var(--fontSizeM);
   letter-spacing: 0.0625rem;
@@ -18,8 +18,13 @@
   width: auto;
   height:24px;
   margin-right: 0.3125rem;
-  fill: var(--black);
+  fill: var(--white);
 }
+
+.button:hover {
+  background-color: var(--grey800);
+}
+
 
 .button.xl {
   padding: 2.5rem; /* 30px */
@@ -27,13 +32,26 @@
   text-transform: uppercase;
 }
 
-.button.blue {
-  background-color: var(--blue500);
-  color: var(--white);
+.button.white {
+  background-color: var(--white);
+  color: var(--black);
 }
 
-.button:hover {
+.button.white svg {
+  fill: var(--black);
+}
+
+.button.white:hover {
   background-color: var(--grey150);
+}
+
+.button.blue {
+  background-color: var(--blue500);
+  color: var(--black);
+}
+
+.button.blue svg {
+  fill: var(--black);
 }
 
 .button.blue:hover {

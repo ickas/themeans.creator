@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Logo from "../Logo";
+import { Logo } from "../Logo";
 import ButtonLink from "../ButtonLink";
 import styles from "./footer.module.css";
 
@@ -26,6 +26,7 @@ export default function Footer() {
           url="https://twitter.com/TheMeansCreator"
           target="_blank"
           icon="twitter"
+          blue
         />
         <span>themeans.creator@gmail.com</span>
       </div>
