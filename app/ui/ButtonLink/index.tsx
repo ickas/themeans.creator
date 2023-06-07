@@ -6,6 +6,7 @@ import { ButtonLinkProps } from "./types";
 export default function ButtonLink(props: ButtonLinkProps) {
   const {
     xl = false,
+    white = false,
     blue = false,
     url = "#0",
     target = "_self",
@@ -16,7 +17,7 @@ export default function ButtonLink(props: ButtonLinkProps) {
   return (
     <Link
       className={`${styles.button} ${xl ? styles.xl : ""} ${
-        blue ? styles.blue : ""
+        blue ? styles.blue : white ? styles.white : ""
       }`}
       href={url}
       target={target}

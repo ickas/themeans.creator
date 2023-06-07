@@ -5,7 +5,7 @@
   flex-direction: column;
   padding: 0 var(--sidePadding) 1.5625rem;
   font-family: var(--font-open-sans);
-  color: var(--grey400);
+  color: var(--white);
 }
 
 .wrapper > div {
@@ -29,8 +29,8 @@
 }
 
 .copyright a {
-  border-bottom: 0.0625rem solid var(--grey800); /* 1px */
-  color: var(--grey400);
+  border-bottom: 0.0625rem solid var(--grey400); /* 1px */
+  color: var(--white);
   text-decoration: none;
 }
 

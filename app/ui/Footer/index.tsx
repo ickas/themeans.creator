@@ -26,6 +26,7 @@ export default function Footer() {
           url="https://twitter.com/TheMeansCreator"
           target="_blank"
           icon="twitter"
+          blue
         />
         <span>themeans.creator@gmail.com</span>
       </div>

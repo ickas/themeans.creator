@@ -1,7 +1,7 @@
 .wrapper {
   position: fixed;
   border-bottom: 0.0625rem solid var(--grey900);
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(25,224,224,0.8); /* #19E0E0 */
   backdrop-filter: blur(4px);
   width: 100%;
   padding: var(--sidePadding);
@@ -47,24 +47,29 @@
 }
 
 .menu a {
-  color: var(--white);
+  color: var(--black);
   text-decoration: none;
 }
 
 .menu ul li a {
+  font-weight: var(--fontWeightSemiBold); /* 600 */
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
+.menu ul li a:hover {
+  color: var(--grey800);
+}
+
 .menu ul li:last-child a {
-  border: 0.0625rem solid var(--grey600); /* 1px */
+  border: 0.125rem solid var(--black); /* 2px */
   border-radius: 0.25rem; /* 4px */
   padding: 0.3125rem 0.625rem; /* 5px 10px */
 }
 
 .menu ul li:last-child a:hover {
-  border-color: var(--blue500); /* 1px */
+  border-color: var(--grey800);
 }
 
 .cta {
