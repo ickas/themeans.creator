@@ -316,6 +316,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/8275cc478311b367985336b0992942f7326a179f625412c17edbc71033f9de8c.webp",
+    name: "Decentralizing Station",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card36",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/42",
+    startDate: "2023-06-13",
+    endDate: "2023-12-13",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
