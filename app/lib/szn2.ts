@@ -6,7 +6,7 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/MeansSzn2Card1",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/2",
     startDate: "2023-03-01",
-    endDate: "2023-05-31",
+    endDate: "2023-12-13",
   },
   {
     image:
@@ -15,7 +15,7 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/MeansSzn2Card2",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/3",
     startDate: "2023-03-02",
-    endDate: "2023-05-31",
+    endDate: "2023-12-13",
   },
   {
     image:
@@ -24,7 +24,7 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/MeansSzn2Card3",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/5",
     startDate: "2023-03-06",
-    endDate: "2023-06-05",
+    endDate: "2023-12-13",
   },
   {
     image:
@@ -33,7 +33,7 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/MeansSzn2Card4",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/7",
     startDate: "2023-03-08",
-    endDate: "2023-06-08",
+    endDate: "2023-12-13",
   },
   {
     image:
@@ -42,7 +42,7 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/MeansSzn2Card5",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/9",
     startDate: "2023-03-10",
-    endDate: "2023-06-10",
+    endDate: "2023-12-13",
   },
   {
     image:
