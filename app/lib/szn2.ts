@@ -339,7 +339,7 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/Means47N1Szn2",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/8",
     startDate: "2023-03-10",
-    endDate: "2023-06-10",
+    endDate: "2023-12-13",
   },
   {
     image:
