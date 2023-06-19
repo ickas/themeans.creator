@@ -325,6 +325,15 @@ export const szn2 = [
   },
   {
     image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/418ab3c63535721e2a2253293d396a8c5a700140ed8777b1b58944f1f6c5c0a8.webp",
+    name: "Alice in the Window",
+    url: "https://app.manifold.xyz/c/MeansSzn2Card37",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/43",
+    startDate: "2023-06-16",
+    endDate: "2023-12-13",
+  },
+  {
+    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
