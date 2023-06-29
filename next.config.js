@@ -24,6 +24,15 @@ const nextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: "/szn2mints",
+        destination: "/minting-now",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;

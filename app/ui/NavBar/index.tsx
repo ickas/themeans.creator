@@ -12,7 +12,7 @@ export default function Navbar() {
     },
     {
       title: "Minting Now",
-      url: "/szn2mints",
+      url: "/minting-now",
       highlight: false,
     },
     {

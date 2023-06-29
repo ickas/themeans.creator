@@ -13,6 +13,7 @@ import {
   lookAgainMeme9,
   lookAgainMeme10,
   lookAgainMeme11,
+  lookAgainMeme12,
 } from "@/app/lib/look-again";
 
 export const metadata = {
@@ -64,6 +65,8 @@ export default function LookAgain() {
         {lookAgainMeme10.length > 0 && <Gallery items={lookAgainMeme10} />}
         <h4>Meme 11: Digital Rights Charter</h4>
         {lookAgainMeme11.length > 0 && <Gallery items={lookAgainMeme11} />}
+        <h4>Meme 12: Build</h4>
+        {lookAgainMeme11.length > 0 && <Gallery items={lookAgainMeme12} />}
       </Section>
     </main>
   );
