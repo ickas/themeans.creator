@@ -386,4 +386,13 @@ export const szn2 = [
     startDate: "2023-04-10",
     endDate: "2023-07-10",
   },
+    {
+    image:
+      "https://arweave.net/Pmu58rxbf2i3KNM2Lsb0XilF5Lv866_g3fYicONk00k",
+    name: "Wake up, NFTs are coming",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card1",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/47",
+    startDate: "2023-07-03",
+    endDate: "2024-01-13",
+  },
 ];
