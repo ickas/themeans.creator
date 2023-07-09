@@ -395,4 +395,13 @@ export const szn2 = [
     startDate: "2023-07-03",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://arweave.net/osMrI2LiQp9zu_XuXC7H-v0eQzWc77E051mTEzDP2yY",
+    name: "The NFTing",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card2",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/48/",
+    startDate: "2023-07-10",
+    endDate: "2024-01-15",
+  },
 ];
