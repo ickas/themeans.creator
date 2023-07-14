@@ -4,7 +4,7 @@ export const links = [
     url: "https://opensea.io/collection/themeans",
   },
   {
-    value: "The Means SZN2",
+    value: "The Means SZN2 & SZN3",
     url: "https://opensea.io/collection/themeanscreatorszn2",
   },
   {

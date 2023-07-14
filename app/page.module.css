@@ -30,19 +30,19 @@
   color: var(--grey400);
 }
 
-ul.cta {
+.cta {
   margin-top: var(--sectionInsideMargin);
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 1.5625rem; /* 25px */
 }
 
-ul.cta a {
+.cta a {
   width: 100%;
 }
 
-@media (min-width: 750px) {
-  ul.cta {
-  grid-template-columns: repeat(2, 1fr);
+@media (min-width: 1024px) {
+  .cta {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
