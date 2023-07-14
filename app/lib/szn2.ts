@@ -402,6 +402,15 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/MeansSzn3Card2",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/48/",
     startDate: "2023-07-10",
-    endDate: "2024-01-15",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a66881aacea6c4791268eea39256fd878d5c0de12973e0dfead9b621d3e27583.webp",
+    name: "GM FOR THE WIN",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card3",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/49/",
+    startDate: "2023-07-14",
+    endDate: "2024-01-13",
   },
 ];
