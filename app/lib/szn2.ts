@@ -413,4 +413,22 @@ export const szn2 = [
     startDate: "2023-07-14",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/4b9223c35d8f6993e311223d2a3679338d910250a2d716a81f5af7bd8315cd86.webp",
+    name: "Memes will Survive",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card4",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/50/",
+    startDate: "2023-07-17",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/cbfc8f659ef8b6e9a27dac708dfef41c2730ac44cb3404ee07e60cc476d0f67f.webp",
+    name: "We, the Buidlors",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card5",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/51/",
+    startDate: "2023-07-20",
+    endDate: "2024-01-13",
+  },
 ];
