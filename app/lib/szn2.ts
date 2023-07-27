@@ -431,4 +431,22 @@ export const szn2 = [
     startDate: "2023-07-20",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/cad611c63d1bc8a727dc9f16206fe9b53738cba3df0c5f417296219f4edf3772.webp",
+    name: "Save Yourself",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card6",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/52/",
+    startDate: "2023-07-25",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/6a0f0d784b6bf0d263439c2be54e6467790472018e8b3717671339d336f9fb2f.webp",
+    name: "The Goddess of Up Only",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card7",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/53/",
+    startDate: "2023-07-27",
+    endDate: "2024-01-13",
+  },
 ];
