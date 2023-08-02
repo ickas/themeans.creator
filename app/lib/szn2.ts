@@ -449,4 +449,13 @@ export const szn2 = [
     startDate: "2023-07-27",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/f369308804aaf0519371a9e75aee5cf9b40c05b0bdf4e5afdb96381af452e34e.webp",
+    name: "House of the Inevitables",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card8",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/54/",
+    startDate: "2023-08-02",
+    endDate: "2024-01-13",
+  },
 ];
