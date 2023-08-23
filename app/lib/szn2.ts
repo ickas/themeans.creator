@@ -467,4 +467,22 @@ export const szn2 = [
     startDate: "2023-08-14",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/251587116b9d76276cc4e40ceb3416bb570da48bda2501ac8987229f38c84be2.gif",
+    name: "Come in",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card10",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/56/",
+    startDate: "2023-08-17",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/710354ff5b7015e6e9e791ea14bd364d5ee8702d14d99e69fabdc5ecddca3af7.gif",
+    name: "NFT Twitter was Special",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card11",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/57/",
+    startDate: "2023-08-22",
+    endDate: "2024-01-13",
+  },
 ];
