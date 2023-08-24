@@ -485,4 +485,13 @@ export const szn2 = [
     startDate: "2023-08-22",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/7790cc70208e72a8f8d0e5187e2b628d8d51b4252f204f4bdf6c59b3097a153c.webp",
+    name: "Shape the Memes",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card12",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/58/",
+    startDate: "2023-08-24",
+    endDate: "2024-01-13",
+  },
 ];
