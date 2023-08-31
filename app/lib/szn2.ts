@@ -494,4 +494,31 @@ export const szn2 = [
     startDate: "2023-08-24",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/8b7f7d031fc261deda35395907582549b1e516dd329957ff4a786e6ee06fa2b5.gif",
+    name: "Maths beats Bullets",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card13",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/59/",
+    startDate: "2023-08-28",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/83b8d712b2a8baddc957401de93e85c5de04689d629b5eb6a016d3d3179b4ea0.webp",
+    name: "Not being happy is NGMI",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card14",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/60/",
+    startDate: "2023-08-30",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/c64b385e49e916e257d303e6f007de5d4ed6ae6d3ee70578cd068ac4428c980d.webp",
+    name: "Vital DYOR",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card15",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/61/",
+    startDate: "2023-08-31",
+    endDate: "2024-01-13",
+  },
 ];
