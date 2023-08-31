@@ -495,8 +495,7 @@ export const szn2 = [
     endDate: "2024-01-13",
   },
     {
-    image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/8b7f7d031fc261deda35395907582549b1e516dd329957ff4a786e6ee06fa2b5.gif",
+    image: "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/8b7f7d031fc261deda35395907582549b1e516dd329957ff4a786e6ee06fa2b5.gif",
     name: "Maths beats Bullets",
     url: "https://app.manifold.xyz/c/MeansSzn3Card13",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/59/",
