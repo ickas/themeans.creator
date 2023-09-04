@@ -520,4 +520,13 @@ export const szn2 = [
     startDate: "2023-08-31",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/65fe188327b9ecf39d0491915ca7218db59cec8998561b663ba27260374663df.webp",
+    name: "Seducing 100,000,000 People",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card16",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/62/",
+    startDate: "2023-09-04",
+    endDate: "2024-01-13",
+  },
 ];
