@@ -529,4 +529,13 @@ export const szn2 = [
     startDate: "2023-09-04",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/df2e20e09dfb2163d4f3f1b96ee05b9d3df1a1aa67e51af326fe5c671a271d75.webp",
+    name: "Trading in Freedom",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card17",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/63/",
+    startDate: "2023-09-06",
+    endDate: "2024-01-13",
+  },
 ];
