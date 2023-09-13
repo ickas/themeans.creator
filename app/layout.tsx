@@ -2,6 +2,7 @@ import "./globals.css";
 import { open_sans, squada_one } from "./fonts";
 import Navbar from "./ui/NavBar";
 import Footer from "./ui/Footer";
+import AnalyticsProvider from "@/config/analytics/analytics-provider";
 
 const title = "The Memes and their Means";
 const description = "The Means — connecting The Memes with their Meaning";
@@ -52,9 +53,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${open_sans.variable} ${squada_one.variable}`}>
-        <Navbar />
-        {children}
-        <Footer />
+        <AnalyticsProvider>
+          <Navbar />
+          {children}
+          <Footer />
+        </AnalyticsProvider>
       </body>
     </html>
   );
