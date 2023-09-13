@@ -2,11 +2,13 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import styles from "./gallery.module.css";
+import { useAnalytics } from "@/config/analytics";
 import { GalleryProps } from "./types";
+import styles from "./gallery.module.css";
 
 export default function Gallery(props: GalleryProps) {
   const { items } = props;
+  const { pushEvent } = useAnalytics();
 
   return (
     <div className={styles.wrapper}>
@@ -21,7 +23,12 @@ export default function Gallery(props: GalleryProps) {
             key={index}
             style={{ pointerEvents: !item.url ? "none" : "initial" }}
           >
-            <Link href={url ?? "#0"} target="_blank" rel="noopener noreferrer">
+            <Link
+              href={url ?? "#0"}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => pushEvent("visit_gallery_item")}
+            >
               <div
                 className={`${styles.image} ${
                   isEnded ? styles.disabled : undefined

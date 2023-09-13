@@ -6,4 +6,5 @@ export interface ButtonLinkProps {
   target?: '_self' | '_blank';
   value: string;
   icon?: string;
+  onClick?: () => void;
 }

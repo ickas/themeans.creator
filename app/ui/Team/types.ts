@@ -5,6 +5,7 @@ interface Team {
   name: string;
   twitter: string;
   bio: string;
+  event: string;
 }
 
 export interface TeamProps {

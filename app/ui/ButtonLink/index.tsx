@@ -12,6 +12,7 @@ export default function ButtonLink(props: ButtonLinkProps) {
     target = "_self",
     value,
     icon,
+    onClick,
   } = props;
 
   return (
@@ -22,6 +23,7 @@ export default function ButtonLink(props: ButtonLinkProps) {
       href={url}
       target={target}
       rel={target === "_blank" ? "noopener noreferrer" : undefined}
+      onClick={onClick}
     >
       {icon && <Icon icon={icon} />}
       <span>{value}</span>
