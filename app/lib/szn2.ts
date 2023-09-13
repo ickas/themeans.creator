@@ -547,4 +547,13 @@ export const szn2 = [
     startDate: "2023-09-11",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/6b076b4a24e1f083777a016391ad01422235379bfdec4ff1e9190ac19a927c17.webp",
+    name: "The Fortune of Overgrown Apes",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card19",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/65/",
+    startDate: "2023-09-11",
+    endDate: "2024-01-13",
+  },
 ];
