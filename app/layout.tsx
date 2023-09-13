@@ -2,11 +2,13 @@ import "./globals.css";
 import { open_sans, squada_one } from "./fonts";
 import Navbar from "./ui/NavBar";
 import Footer from "./ui/Footer";
+import AnalyticsProvider from "@/config/analytics/analytics-provider";
 
 const title = "The Memes and their Means";
 const description = "The Means — connecting The Memes with their Meaning";
 
 export const metadata = {
+  metadataBase: new URL("https://themeanscreator.io"),
   title: title,
   description: description,
   keywords: "nft, meme, art, digital art, Punk 6529",
@@ -18,7 +20,7 @@ export const metadata = {
     locale: "en-US",
     images: [
       {
-        url: "/public/og-image.jpg",
+        url: "/og-image.jpg",
         width: 1200,
         height: 628,
       },
@@ -30,7 +32,7 @@ export const metadata = {
     description: description,
     creator: "@TheMeansCreator",
     site: "@TheMeansCreator",
-    images: ["/public/og-image.jpg"],
+    images: ["/og-image.jpg"],
   },
   icons: {
     icon: [{ url: "/favicon.ico" }, { url: "/icon.svg" }],
@@ -51,9 +53,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${open_sans.variable} ${squada_one.variable}`}>
-        <Navbar />
-        {children}
-        <Footer />
+        <AnalyticsProvider>
+          <Navbar />
+          {children}
+          <Footer />
+        </AnalyticsProvider>
       </body>
     </html>
   );

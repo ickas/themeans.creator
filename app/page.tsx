@@ -1,3 +1,5 @@
+"use client";
+
 import Section from "./ui/Section";
 import Narrow from "./ui/Narrow";
 import ButtonLink from "./ui/ButtonLink";
@@ -6,8 +8,11 @@ import Pricing from "./ui/Pricing";
 import styles from "./page.module.css";
 import { links } from "./lib/links";
 import { team } from "./lib/team";
+import { useAnalytics } from "@/config/analytics";
 
 export default function Home() {
+  const { pushEvent } = useAnalytics();
+
   return (
     <main className={styles.wrapper}>
       <div className={styles.hero}>
@@ -17,6 +22,7 @@ export default function Home() {
           value="View on OpenSea"
           url="https://opensea.io/themeanscreator"
           target="_blank"
+          onClick={() => pushEvent("visit_os")}
           xl
           blue
         />
@@ -289,6 +295,7 @@ export default function Home() {
                 value={link.value}
                 url={link.url}
                 target="_blank"
+                onClick={() => pushEvent(link.event)}
                 xl
                 blue
               />

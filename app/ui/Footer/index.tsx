@@ -1,9 +1,14 @@
+"use client";
+
 import Link from "next/link";
+import { useAnalytics } from "@/config/analytics";
 import { Logo } from "../Logo";
 import ButtonLink from "../ButtonLink";
 import styles from "./footer.module.css";
 
 export default function Footer() {
+  const { pushEvent } = useAnalytics();
+
   return (
     <div className={styles.wrapper}>
       <div className={styles.copyright}>
@@ -25,6 +30,7 @@ export default function Footer() {
           value="TheMeansCreator"
           url="https://twitter.com/TheMeansCreator"
           target="_blank"
+          onClick={() => pushEvent("visit_twitter")}
           icon="twitter"
           blue
         />
