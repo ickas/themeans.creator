@@ -556,4 +556,13 @@ export const szn2 = [
     startDate: "2023-09-11",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/990f1e1e74a80fb6fd9c6721e75ad2f6757b5c6f060678e248c9ef1f84f15f54.webp",
+    name: "Just Shoot",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card20",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/66/",
+    startDate: "2023-09-15",
+    endDate: "2024-01-13",
+  },
 ];
