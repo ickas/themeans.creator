@@ -567,7 +567,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/932faff4d80d5f10b5bd79a8d32544859a21c33d1ad63f2cee1281f6546526cd.gif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/932faff4d80d5f10b5bd79a8d32544859a21c33d1ad63f2cee1281f6546526cd.gif",
     name: "HODL Mode",
     url: "https://app.manifold.xyz/c/MeansSzn3Card21",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/67/",
@@ -585,7 +585,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/248a98499198435b012cf1c5de12258baa3e063c48652de0762afead007ba961.gif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/248a98499198435b012cf1c5de12258baa3e063c48652de0762afead007ba961.gif",
     name: "gm, world",
     url: "https://app.manifold.xyz/c/MeansSzn3Card23",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/69/",
