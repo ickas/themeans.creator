@@ -592,4 +592,22 @@ export const szn2 = [
     startDate: "2023-09-21",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_60,w_700/2e72ada043cb319d82ba324ea919a7a58def4d0b708b057cedc1f56d5a2f3dec.gif",
+    name: "The Beacon Stays On",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card24",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/70/",
+    startDate: "2023-09-25",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/f37890863773865009f0bb6ca37234019cadb3fca3d625f40735220856b5dbf1.webp",
+    name: "One Freedom",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card25",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/71/",
+    startDate: "2023-09-26",
+    endDate: "2024-01-13",
+  },
 ];
