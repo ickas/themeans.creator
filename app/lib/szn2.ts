@@ -610,4 +610,13 @@ export const szn2 = [
     startDate: "2023-09-26",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/ad72a4b9845db617a3e4f575df3e59a30d524776fbe8085230a336c637713653.webp",
+    name: "Echoes of GM",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card26",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/72/",
+    startDate: "2023-09-29",
+    endDate: "2024-01-13",
+  },
 ];
