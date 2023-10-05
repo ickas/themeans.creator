@@ -619,4 +619,22 @@ export const szn2 = [
     startDate: "2023-09-29",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/3afec1bd3a91dad05e984118b75ccbef3cb62629075d21e310d0e308ae7af0e4.gif",
+    name: "Embracing Time",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card27",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/73/",
+    startDate: "2023-10-03",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/7854849af9cdc5346728f8883db0c844ccc5b092c83219babdcb4a1c0256b116.webp",
+    name: "Hxstory Rxpeats",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card28",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/74/",
+    startDate: "2023-10-05",
+    endDate: "2024-01-13",
+  },
 ];
