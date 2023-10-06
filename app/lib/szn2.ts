@@ -637,4 +637,13 @@ export const szn2 = [
     startDate: "2023-10-05",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/fe528fd39292b084b4b72dc3d78cdce0cfd5a2283aeeecb8e0757be954cded8f.gif",
+    name: "The TAP Lane",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card29",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/75/",
+    startDate: "2023-10-06",
+    endDate: "2024-01-13",
+  },
 ];
