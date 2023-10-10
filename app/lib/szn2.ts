@@ -646,4 +646,13 @@ export const szn2 = [
     startDate: "2023-10-06",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/089c5408cb6d8a32f577ef2b3073cc6da6834e16cced12e1985d2a02b0ff9f3b.gif",
+    name: "Found & Never Lost",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card30",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/76/",
+    startDate: "2023-10-09",
+    endDate: "2024-01-13",
+  },
 ];
