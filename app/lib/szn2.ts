@@ -655,4 +655,22 @@ export const szn2 = [
     startDate: "2023-10-09",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/08d48a1f3d0ffe098e2a74bfe9ff1fd82531ab8203874054fe74fac77b5ccb9d.gif",
+    name: "Meaning is Everything",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card31",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/77/",
+    startDate: "2023-10-11",
+    endDate: "2024-01-13",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a249031084602c22e5bc86d3e5df035c827432839bd0d7b1c9e81125ec494acd.webp",
+    name: "Tourists vs Stayooors",
+    url: "https://app.manifold.xyz/c/MeansSzn3Card32",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/78/",
+    startDate: "2023-10-13",
+    endDate: "2024-01-13",
+  },
 ];
