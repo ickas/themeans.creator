@@ -673,4 +673,13 @@ export const szn2 = [
     startDate: "2023-10-13",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/ac467f19bca4e4d1c388325d7b237ab3c6b3c29bb91b73303dc48db2433e28fd.webp",
+    name: "Winter at the Beach",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card01",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/79/",
+    startDate: "2023-10-17",
+    endDate: "2024-01-13",
+  },
 ];
