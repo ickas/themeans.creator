@@ -682,4 +682,13 @@ export const szn2 = [
     startDate: "2023-10-17",
     endDate: "2024-01-13",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ff1104d1b73ff5c2d7928000a349783d562204f9217e6740f4298599e85b70c5.gif",
+    name: "Play for a Decade",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card02",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/80/",
+    startDate: "2023-10-18",
+    endDate: "2024-04-26",
+  },
 ];
