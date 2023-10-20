@@ -691,4 +691,22 @@ export const szn2 = [
     startDate: "2023-10-18",
     endDate: "2024-04-26",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/40cd51944741c1b2088f40614487d081bbeb92b06800bb9940256fa30f0bf8f1.gif",
+    name: "Don't let them bully you",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card03",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/81/",
+    startDate: "2023-10-19",
+    endDate: "2024-04-26",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/75c4a0bf5264a516cca575e51ce9d3846774e2ed0df1729c9238e4c1abe5d30b.gif",
+    name: "Everyone is coming",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card04",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/82/",
+    startDate: "2023-10-20",
+    endDate: "2024-04-27",
+  },
 ];
