@@ -709,4 +709,13 @@ export const szn2 = [
     startDate: "2023-10-20",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/62664e05f74d2daa4a496b14d5491adf9bbccfdab3ee725d7c6a312f844a4585.webp",
+    name: "Going somewhere?",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card05",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/83/",
+    startDate: "2023-10-23",
+    endDate: "2024-04-27",
+  },
 ];
