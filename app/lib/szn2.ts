@@ -718,4 +718,22 @@ export const szn2 = [
     startDate: "2023-10-23",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/1ca400687201a02f8462853cab958a72ef8ff943d145bf043bd98565d38401ea.gif",
+    name: "Winner, winner, chicken dinner",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card06",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/84/",
+    startDate: "2023-10-24",
+    endDate: "2024-04-27",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/b8c88f03de79522658a17ae32531adb7c1c2c67c3c84aafb3cb1d9e0fe9666db.gif",
+    name: "Unapproved Creations",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card07",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/85/",
+    startDate: "2023-10-25",
+    endDate: "2024-04-27",
+  },
 ];
