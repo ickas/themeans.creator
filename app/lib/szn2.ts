@@ -736,4 +736,13 @@ export const szn2 = [
     startDate: "2023-10-25",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/f8c31b9a94cbf7a00202721ef7d320d5a10f8981f560d516474f367246209742.gif",
+    name: "Pre-Packaged Beliefs",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card08",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/86/",
+    startDate: "2023-10-26",
+    endDate: "2024-04-27",
+  },
 ];
