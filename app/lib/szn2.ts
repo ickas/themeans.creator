@@ -745,4 +745,13 @@ export const szn2 = [
     startDate: "2023-10-26",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/9a47acb222bc4b5bd76523d6e0b88186315d7190cdf0b1c45787eea3bee29d16.webp",
+    name: "Forever and Ever",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card09",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/87/",
+    startDate: "2023-10-27",
+    endDate: "2024-04-27",
+  },
 ];
