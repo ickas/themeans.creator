@@ -754,4 +754,22 @@ export const szn2 = [
     startDate: "2023-10-27",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/b139c677e15696413b17d1d457ddb038e8cecad38c06402d21322caac982e05c.gif",
+    name: "Summer of 2030",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card10",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/88/",
+    startDate: "2023-10-30",
+    endDate: "2024-04-27",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/0f913472318d5dd2afcb9adb779e4c22fc8878d9bda01429a8e3ae7d30a09286.webp",
+    name: "The Waiting Game",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card11",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/89/",
+    startDate: "2023-10-31",
+    endDate: "2024-04-27",
+  },
 ];
