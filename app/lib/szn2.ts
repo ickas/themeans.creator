@@ -772,4 +772,22 @@ export const szn2 = [
     startDate: "2023-10-31",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/1646550427da3ca2bc726d8ffdf9038ace1861ecb0a48e2f957eebdf6485dbb0.webp",
+    name: "The Truth",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card12",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/90/",
+    startDate: "2023-11-02",
+    endDate: "2024-04-27",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/b14eef499be8d0e6fa631bc46c6866370d36c1e350c79e8aa5219cf3368036a4.gif",
+    name: "Nobody vs Everyone",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card13",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/91/",
+    startDate: "2023-11-03",
+    endDate: "2024-04-27",
+  },
 ];
