@@ -790,4 +790,13 @@ export const szn2 = [
     startDate: "2023-11-03",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/236e912d7c38473a2b410863ea204b008072e202196bca5ba1ea6b072953729b.gif",
+    name: "Keeping your cool",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card14",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/92/",
+    startDate: "2023-11-06",
+    endDate: "2024-04-27",
+  },
 ];
