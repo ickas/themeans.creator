@@ -799,4 +799,13 @@ export const szn2 = [
     startDate: "2023-11-06",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0ba1793134ac2217a435673ffc9fe653fc7c5d6820f2f018345f366056777b27.gif",
+    name: "Brain Cycles",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card15",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/93/",
+    startDate: "2023-11-08",
+    endDate: "2024-04-26",
+  },
 ];
