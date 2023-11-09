@@ -808,4 +808,13 @@ export const szn2 = [
     startDate: "2023-11-08",
     endDate: "2024-04-26",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/b6d172c4460f31d46d6a6a57175850c0aba6b66a4e9b5ddc08ec19711ef72f8d.webp",
+    name: "No Other Way",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card16",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/94/",
+    startDate: "2023-11-09",
+    endDate: "2024-04-27",
+  },
 ];
