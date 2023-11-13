@@ -817,4 +817,13 @@ export const szn2 = [
     startDate: "2023-11-09",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/7a2170902f01f60908eb7fca043ebb65c5b428290bde21ae3016f3112320c8ba.webp",
+    name: "Regular Metaverse",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card17",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/95/",
+    startDate: "2023-11-13",
+    endDate: "2024-04-27",
+  },
 ];
