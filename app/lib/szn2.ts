@@ -826,4 +826,13 @@ export const szn2 = [
     startDate: "2023-11-13",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/1577b6c67686301ddaa430e8d3298452aa9c33237f8b0f6c4d140e2be1bcd23d.gif",
+    name: "Unstoppable Time",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card18",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/96/",
+    startDate: "2023-11-14",
+    endDate: "2024-04-27",
+  },
 ];
