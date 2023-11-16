@@ -835,4 +835,22 @@ export const szn2 = [
     startDate: "2023-11-14",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/b144a5d76ed0b8d2a2b946887856dea4f9597f4753c6f68f0794474c7ea02fd0.webp",
+    name: "Freedom to Dream",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card19",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/97/",
+    startDate: "2023-11-15",
+    endDate: "2024-04-27",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/06f23707d8d83c14032b1b480e59490eb560fb4a3f73818e6737f129d497ee10.gif",
+    name: "FAFO into the Light",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card20",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/98/",
+    startDate: "2023-11-16",
+    endDate: "2024-04-27",
+  },
 ];
