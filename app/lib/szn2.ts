@@ -862,4 +862,22 @@ export const szn2 = [
     startDate: "2023-11-21",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/09c9d28d130aced6b7ef54bd122527c170a059f21308d760dfd40d072d9b0e90.gif",
+    name: "OM Island",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card22",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/100/",
+    startDate: "2023-11-22",
+    endDate: "2024-04-27",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/973038104e12f862cab239c90e7e448a26ffb013bff01305091e3358214f881b.gif",
+    name: "Common Crypto Sense",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card23",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/101/",
+    startDate: "2023-11-24",
+    endDate: "2024-04-27",
+  },
 ];
