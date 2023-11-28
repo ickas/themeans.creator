@@ -880,4 +880,13 @@ export const szn2 = [
     startDate: "2023-11-24",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/75bf20d4a4dffd750cbef2e9326ca6ded86414c469ad2144feaff545ae39e470.webp",
+    name: "Time to Keep Going",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card24",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/102/",
+    startDate: "2023-11-27",
+    endDate: "2024-04-27",
+  },
 ];
