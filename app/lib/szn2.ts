@@ -889,4 +889,13 @@ export const szn2 = [
     startDate: "2023-11-27",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/96a41f5b7ea11ec1f6421b24931a36c939c52d8f1917cab1fdc31ff5faf4c98b.webp",
+    name: "The NFT Allegiance",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card25",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/103/",
+    startDate: "2023-12-04",
+    endDate: "2024-04-27",
+  },
 ];
