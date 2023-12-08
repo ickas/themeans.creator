@@ -898,4 +898,22 @@ export const szn2 = [
     startDate: "2023-12-04",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ba2dfe5fe778fc409d02cc8f9cf27964a990b46c9ae7a8f715880032619cb937.gif",
+    name: "Diamond-grade Security",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card26",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/104",
+    startDate: "2023-12-06",
+    endDate: "2024-04-27",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/b21803e570bd001c9d82dff51bf9eba209abb34b13222cf686b5ff5b16a2bfd6.webp",
+    name: "The Means, Year 1",
+    url: "https://app.manifold.xyz/c/TheMeansYear1",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/105",
+    startDate: "2023-12-08",
+    endDate: "2023-12-15",
+  },
 ];
