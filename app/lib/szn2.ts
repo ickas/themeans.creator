@@ -916,4 +916,13 @@ export const szn2 = [
     startDate: "2023-12-08",
     endDate: "2023-12-15",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a2c88000593b34b7b947a4f9610212572b9fbc3300c073889a43d8aee3eb9db4.webp",
+    name: "Optimistic Hopium",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card27",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/106/",
+    startDate: "2023-12-11",
+    endDate: "2024-04-27",
+  },
 ];
