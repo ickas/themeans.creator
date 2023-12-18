@@ -925,4 +925,13 @@ export const szn2 = [
     startDate: "2023-12-11",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/4264b5c81a461efe487b1fcbce3849a7a27fc903818026aa4fe90b1e67b1e9c3.gif",
+    name: "Building Feels Good",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card28",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/107",
+    startDate: "2023-12-18",
+    endDate: "2024-04-27",
+  },
 ];
