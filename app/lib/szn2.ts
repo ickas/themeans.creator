@@ -828,7 +828,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/1577b6c67686301ddaa430e8d3298452aa9c33237f8b0f6c4d140e2be1bcd23d.gif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/1577b6c67686301ddaa430e8d3298452aa9c33237f8b0f6c4d140e2be1bcd23d.gif",
     name: "Unstoppable Time",
     url: "https://app.manifold.xyz/c/MeansSzn4Card18",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/96/",
@@ -932,6 +932,15 @@ export const szn2 = [
     url: "https://app.manifold.xyz/c/MeansSzn4Card28",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/107",
     startDate: "2023-12-18",
+    endDate: "2024-04-27",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/1a802dc024f22f5fe134b48272731b28014e40c2cb8c10e670bc351c44386fd4.gif",
+    name: "Wen Valhalla",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card29",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/108/",
+    startDate: "2023-12-21",
     endDate: "2024-04-27",
   },
 ];
