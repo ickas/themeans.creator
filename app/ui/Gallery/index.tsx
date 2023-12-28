@@ -37,8 +37,8 @@ export default function Gallery(props: GalleryProps) {
                 <Image
                   src={item.image}
                   alt={item.name}
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  fill
+                  width={400}
+                  height={400}
                 />
               </div>
               <div className={styles.details}>
