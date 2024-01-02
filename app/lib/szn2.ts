@@ -961,4 +961,13 @@ export const szn2 = [
     startDate: "2023-12-29",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_600/c0491ff3dbe68e87d9f2e8df02b6b1605be16c14ed58ff592c379986f32a8567.gif",
+    name: "Proof of Seizing",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card31",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/113/",
+    startDate: "2024-01-02",
+    endDate: "2024-04-27",
+  },
 ];
