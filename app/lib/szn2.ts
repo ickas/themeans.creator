@@ -970,4 +970,13 @@ export const szn2 = [
     startDate: "2024-01-02",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_600/250039848f2ed86d136fafcc424e7e1676193c187917146786378d243666a766.gif",
+    name: "Your Digital Rights Exist",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card32",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/111/",
+    startDate: "2024-01-03",
+    endDate: "2024-04-27",
+  },
 ];
