@@ -979,4 +979,13 @@ export const szn2 = [
     startDate: "2024-01-03",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/afb8f669c16a3b6ede7993fd9cb8d173efed6b9ee4dcf9dc69e758d864e26ff1.webp",
+    name: "Veritas",
+    url: "https://app.manifold.xyz/c/MeansSzn4Card33",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/112/",
+    startDate: "2024-01-05",
+    endDate: "2024-04-27",
+  },
 ];
