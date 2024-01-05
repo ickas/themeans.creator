@@ -963,7 +963,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_600/c0491ff3dbe68e87d9f2e8df02b6b1605be16c14ed58ff592c379986f32a8567.gif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/c0491ff3dbe68e87d9f2e8df02b6b1605be16c14ed58ff592c379986f32a8567.gif",
     name: "Proof of Seizing",
     url: "https://app.manifold.xyz/c/MeansSzn4Card31",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/113/",
@@ -972,7 +972,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_600/250039848f2ed86d136fafcc424e7e1676193c187917146786378d243666a766.gif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/250039848f2ed86d136fafcc424e7e1676193c187917146786378d243666a766.gif",
     name: "Your Digital Rights Exist",
     url: "https://app.manifold.xyz/c/MeansSzn4Card32",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/111/",
