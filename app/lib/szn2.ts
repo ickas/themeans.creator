@@ -988,4 +988,13 @@ export const szn2 = [
     startDate: "2024-01-05",
     endDate: "2024-04-27",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/cb1f84eff5d374d8b7b05014c46807d11bf54da587d43647e11108931bc2d1ad.gif",
+    name: "Building 2024",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card01",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/114",
+    startDate: "2024-01-17",
+    endDate: "2024-07-30",
+  },
 ];
