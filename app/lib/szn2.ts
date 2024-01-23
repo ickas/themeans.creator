@@ -1008,7 +1008,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0673c63b5c49863bda852081a38f0e27b5ab55b97694b2cbc653bb7ab2312fee.gif",
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0673c63b5c49863bda852081a38f0e27b5ab55b97694b2cbc653bb7ab2312fee.jpg",
     name: "Swim to 2030",
     url: "https://app.manifold.xyz/c/MeansSzn5Card03",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/116/",
