@@ -997,4 +997,22 @@ export const szn2 = [
     startDate: "2024-01-17",
     endDate: "2024-07-30",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/6e27d7a4b607de23d211657ae2f947d394b207c3a13cbbed8c38969829167435.gif",
+    name: "Bitcoin ETF Bitch",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card02",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/115/",
+    startDate: "2024-01-19",
+    endDate: "2024-07-31",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0673c63b5c49863bda852081a38f0e27b5ab55b97694b2cbc653bb7ab2312fee.gif",
+    name: "Swim to 2030",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card03",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/116/",
+    startDate: "2024-01-23",
+    endDate: "2024-07-30",
+  },
 ];
