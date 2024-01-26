@@ -1015,4 +1015,13 @@ export const szn2 = [
     startDate: "2024-01-23",
     endDate: "2024-07-30",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/52adca5618b22d6c4a17c252c8a7a9f6206da0b4ad947853252bb05ab81bdc2a.webp",
+    name: "Fight, anon, fight",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card04",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/117/",
+    startDate: "2024-01-26",
+    endDate: "2024-07-31",
+  },
 ];
