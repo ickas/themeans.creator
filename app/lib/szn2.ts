@@ -1024,4 +1024,31 @@ export const szn2 = [
     startDate: "2024-01-26",
     endDate: "2024-07-31",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/56df5d9f3887e088a08ce832f33cfec098f469cedba5e14510dd5f5a2b07aa95.webp",
+    name: "The Rising",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card05",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/118/",
+    startDate: "2024-01-29",
+    endDate: "2024-07-30",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/4dd66f2b0ffe7f22a72b4899d2f03caba31ee95eb3040c5443679048a0c8755f.gif",
+    name: "Beam us Up",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card06",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/119/",
+    startDate: "2024-01-31",
+    endDate: "2024-07-31",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ccbe2f2c157c015860feba89f862d11c232b79cc9e3f29be569e34aa81dec672.gif",
+    name: "Fighting memes with Memes",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card07",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/120/",
+    startDate: "2024-01-29",
+    endDate: "2024-07-30",
+  },
 ];
