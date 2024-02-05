@@ -1051,4 +1051,13 @@ export const szn2 = [
     startDate: "2024-01-29",
     endDate: "2024-07-30",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/bcab4311484e28f757ec575a6d98c84bc81222d3ae72b5d0f52dd6e8fe416816.webp",
+    name: "All Things AMMI",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card08",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/121/",
+    startDate: "2024-02-05",
+    endDate: "2024-07-31",
+  },
 ];
