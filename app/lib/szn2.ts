@@ -1060,4 +1060,22 @@ export const szn2 = [
     startDate: "2024-02-05",
     endDate: "2024-07-31",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/80357f019cf8ef5758a44125f6b13bff0e29e7b291d99ceadb9ed161ee3890d8.webp",
+    name: "I Think",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card09",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/122/",
+    startDate: "2024-02-07",
+    endDate: "2024-07-31",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/d506b9d30110a5f4a1a06d13ef225b9d94f9cbe9924a3cb218e89bfa771635f6.webp",
+    name: "NFTs will devour everything",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card10",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/123/",
+    startDate: "2024-02-08",
+    endDate: "2024-07-31",
+  },
 ];
