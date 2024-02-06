@@ -34,6 +34,8 @@ const ListItem = React.forwardRef(
   )
 );
 
+ListItem.displayName = "ListItem";
+
 const NavigationMenuDemo = () => {
   return (
     <NavigationMenu.Root className="NavigationMenuRoot">
