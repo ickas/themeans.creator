@@ -45,20 +45,17 @@ const NavigationMenuDemo = () => {
         </NavigationMenu.Item>
         <NavigationMenu.Item>
           <NavigationMenu.Trigger className="NavigationMenuTrigger">
-            Mint now <CaretDownIcon className="CaretDown" aria-hidden />
+            Collections <CaretDownIcon className="CaretDown" aria-hidden />
           </NavigationMenu.Trigger>
           <NavigationMenu.Content className="NavigationMenuContent">
             <ul className="List one">
-              <ListItem href="/minting-now" title="The Means">
+              <ListItem href="/meaned-memes" title="Means SZN 1">
                 This is your means heads up page for mints.
               </ListItem>
-              <ListItem href="/meaned-memes" title="Meaned Memes">
+              <ListItem href="/minting-now" title="Means SZN 2-5">
                 The memes and their means.
               </ListItem>
-              <ListItem href="#0" title="Xpto Collection">
-                Ut exercitation sint pariatur eu duis ex culpa.
-              </ListItem>
-              <ListItem href="#0" title="XYZ Collection">
+              <ListItem href="/what-do-you-mean" title="What Do You Mean?">
                 Ut exercitation sint pariatur eu duis ex culpa.
               </ListItem>
             </ul>
