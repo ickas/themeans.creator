@@ -26,7 +26,7 @@ export default function TheMeansSzn2() {
         </p>
         <p>Check out active mints below.</p>
       </div>
-      <Gallery items={szn2} />
+      <Gallery items={szn2.reverse()} />
     </main>
   );
 }

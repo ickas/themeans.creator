@@ -51,14 +51,14 @@ const NavigationMenuDemo = () => {
           </NavigationMenu.Trigger>
           <NavigationMenu.Content className="NavigationMenuContent">
             <ul className="List one">
-              <ListItem href="/meaned-memes" title="Means SZN 1">
+              <ListItem href="/whatdoyoumeanmeans" title="What Do You Mean?">
+                Ut exercitation sint pariatur eu duis ex culpa.
+              </ListItem>
+              <ListItem href="/season1means" title="Means SZN 1">
                 This is your means heads up page for mints.
               </ListItem>
-              <ListItem href="/minting-now" title="Means SZN 2-5">
+              <ListItem href="/season2-5means" title="Means SZN 2-5">
                 The memes and their means.
-              </ListItem>
-              <ListItem href="/what-do-you-mean" title="What Do You Mean?">
-                Ut exercitation sint pariatur eu duis ex culpa.
               </ListItem>
             </ul>
           </NavigationMenu.Content>

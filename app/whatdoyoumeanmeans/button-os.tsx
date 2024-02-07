@@ -9,7 +9,7 @@ export default function ButtonLinkOS() {
   return (
     <ButtonLink
       value="View on OpenSea"
-      url="https://opensea.io/themeanscreator"
+      url="https://opensea.io/collection/themeanswhatdoyoumean"
       target="_blank"
       onClick={() => pushEvent("visit_os")}
       xl
