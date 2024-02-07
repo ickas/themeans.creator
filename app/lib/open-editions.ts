@@ -1,15 +1,6 @@
 export const openEditions = [
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/0e03a4bb8cba74f21223e0c1d814c132d3b8876f21645e07394afebab22cf385.webp",
-    name: "WEB3 Inclusivity Problem-Solving",
-    url: "https://app.manifold.xyz/c/WEB3Inclusivity",
-    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/109/",
-    startDate: "2023-12-23",
-    endDate: "2024-04-27",
-  },
-    {
-    image:
       "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/b21803e570bd001c9d82dff51bf9eba209abb34b13222cf686b5ff5b16a2bfd6.webp",
     name: "The Means, Year 1",
     url: "https://app.manifold.xyz/c/TheMeansYear1",
