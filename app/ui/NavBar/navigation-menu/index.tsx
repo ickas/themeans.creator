@@ -51,6 +51,9 @@ const NavigationMenuDemo = () => {
           </NavigationMenu.Trigger>
           <NavigationMenu.Content className="NavigationMenuContent">
             <ul className="List one">
+              <ListItem href="/openeditionmeans" title="Open Editions">
+                Ut exercitation sint pariatur eu duis ex culpa.
+              </ListItem>
               <ListItem href="/whatdoyoumeanmeans" title="What Do You Mean?">
                 Ut exercitation sint pariatur eu duis ex culpa.
               </ListItem>
