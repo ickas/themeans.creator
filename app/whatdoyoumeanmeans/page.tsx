@@ -12,7 +12,7 @@ export default function WhatDoYouMean() {
     <main className={styles.wrapper}>
       <div className={styles.hero}>
         <h1>What Do You Mean?</h1>
-        <span>Ut exercitation sint pariatur eu duis ex culpa.</span>
+        <span>Where The Means go to have fun and try new concepts.</span>
         <ButtonLinkOS />
       </div>
       <Gallery items={wdym} />

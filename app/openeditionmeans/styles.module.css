@@ -9,16 +9,9 @@
   padding-top: calc(var(--sectionMargin) + var(--navbarHeight));
 }
 
-.hero h1 {
-  margin-bottom: var(--sectionInsideMargin);
-}
-
-.hero a {
-  color: var(--blue500);
-  text-decoration: none;
-  transition-duration: var(--hoverTransitionDuration);
-}
-
-.hero a:hover {
-  color: var(--blue600);
+.hero > span {
+  font-family: var(--font-squada-one);
+  font-size: 2.5rem; /* 40px */
+  color: var(--grey400);
+  text-transform: uppercase;
 }

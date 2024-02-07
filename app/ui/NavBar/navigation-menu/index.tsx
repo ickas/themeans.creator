@@ -51,17 +51,20 @@ const NavigationMenuDemo = () => {
           </NavigationMenu.Trigger>
           <NavigationMenu.Content className="NavigationMenuContent">
             <ul className="List one">
-              <ListItem href="/openeditionmeans" title="Open Editions">
-                Ut exercitation sint pariatur eu duis ex culpa.
+              <ListItem
+                href="/openeditionmeans"
+                title="The Means Open Editions"
+              >
+                Giving back and celebrating special moments with our community
               </ListItem>
               <ListItem href="/whatdoyoumeanmeans" title="What Do You Mean?">
-                Ut exercitation sint pariatur eu duis ex culpa.
+                Where The Means go to have fun and try new concepts
               </ListItem>
-              <ListItem href="/season1means" title="Means SZN 1">
-                This is your means heads up page for mints.
+              <ListItem href="/season1means" title="The Means SZN1">
+                Debut Collection
               </ListItem>
-              <ListItem href="/season2-5means" title="Means SZN 2-5">
-                The memes and their means.
+              <ListItem href="/season2-5means" title="The Means SZNs 2-5">
+                Where the buidling and creating continues
               </ListItem>
             </ul>
           </NavigationMenu.Content>

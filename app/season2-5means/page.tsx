@@ -11,7 +11,7 @@ export default function TheMeansSzn2() {
   return (
     <main className={styles.wrapper}>
       <div className={styles.hero}>
-        <h1>This is your Means heads up page for mints. </h1>
+        <h1>This is your Means heads up page for mints.</h1>
         <p>
           To keep up with new drops, use this page as a reference and guide to
           minting URLs. To stay even more on top of things, follow us on{" "}
