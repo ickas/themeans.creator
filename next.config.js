@@ -1,8 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
   images: {
     remotePatterns: [
       {
@@ -27,8 +24,18 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: "/meaned-memes",
+        destination: "/season1means",
+        permanent: true,
+      },
+      {
         source: "/szn2mints",
-        destination: "/minting-now",
+        destination: "/season2-5means",
+        permanent: true,
+      },
+      {
+        source: "/minting-now",
+        destination: "/season2-5means",
         permanent: true,
       },
     ];
