@@ -1,6 +1,6 @@
 export const wdym = [
     {
-    image: "https://assets.manifold.xyz/video/upload/c_limit,q_80,w_1024/1c0b886064b665b6d60719e0d5a66244ac8c220c174628f1e7bb21d83bda1582.mp4",
+    image: "https://assets.manifold.xyz/video/upload/c_limit,q_50,w_400/1c0b886064b665b6d60719e0d5a66244ac8c220c174628f1e7bb21d83bda1582.mp4",
     name: "The Sgt Pepe Crew Takes Flight - collab with Julia - @nft_lady_007",
     url: "https://app.manifold.xyz/c/TheSgtPepeCreTakesFlight",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/124/",
