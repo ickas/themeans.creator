@@ -1,5 +1,13 @@
 export const wdym = [
     {
+    image: "https://assets.manifold.xyz/video/upload/c_limit,q_80,w_1024/1c0b886064b665b6d60719e0d5a66244ac8c220c174628f1e7bb21d83bda1582.mp4",
+    name: "The Sgt Pepe Crew Takes Flight - collab with Julia - @nft_lady_007",
+    url: "https://app.manifold.xyz/c/TheSgtPepeCreTakesFlight",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/124/",
+    startDate: "2024-02-15",
+    endDate: "2024-04-15",
+  },    
+   {
     image: "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/0e03a4bb8cba74f21223e0c1d814c132d3b8876f21645e07394afebab22cf385.webp",
     name: "WEB3 Inclusivity Problem-Solving",
     url: "https://app.manifold.xyz/c/WEB3Inclusivity",
