@@ -1,5 +1,13 @@
 export const wdym = [
     {
+    image: "https://d1updk8hq321rl.cloudfront.net/optimized/72b6fa14513834cbf03533b2bbb8ad38302472a9f7c348b6b92895ba3ed73926/w_1024.webp",
+    name: "Sgt pepe World Freedom Card",
+    url: "https://app.manifold.xyz/c/SgtPepeWorldFreedomCard",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/126/",
+    startDate: "2024-02-22",
+    endDate: "2024-03-22",
+  },    
+   {
     image: "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/64655d2f34292bf89b9e17bf3e1edc7d7de5dbb0744910e610b49debe7a553cb.webp",
     name: "The Sgt Pepe Crew Takes Flight - collab with Julia - @nft_lady_007",
     url: "https://app.manifold.xyz/c/TheSgtPepeCreTakesFlight",
