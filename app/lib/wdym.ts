@@ -1,6 +1,6 @@
 export const wdym = [
     {
-    image: "https://d1updk8hq321rl.cloudfront.net/optimized/72b6fa14513834cbf03533b2bbb8ad38302472a9f7c348b6b92895ba3ed73926/w_1024.webp",
+    image: "https://i.seadn.io/s/raw/files/84659fd2f79bd186402c2ec184dfcbd4.png?auto=format&dpr=1&w=1000",
     name: "Sgt Pepe World Freedom Card",
     url: "https://app.manifold.xyz/c/SgtPepeWorldFreedomCard",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/126/",
