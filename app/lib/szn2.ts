@@ -1051,4 +1051,13 @@ export const szn2 = [
     startDate: "2024-02-20",
     endDate: "2024-07-31",
   },
+    {
+    image:
+      "https://d1updk8hq321rl.cloudfront.net/optimized/1d476d802789f76813703aea255de0b3583d554d86f3f1cfc4f633fb98ab8f67/w_1024.webp",
+    name: "Cheese Happens",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card12",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/127/",
+    startDate: "2024-02-23",
+    endDate: "2024-07-31",
+  },
 ];
