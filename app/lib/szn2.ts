@@ -1053,7 +1053,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://d1updk8hq321rl.cloudfront.net/optimized/1d476d802789f76813703aea255de0b3583d554d86f3f1cfc4f633fb98ab8f67/w_1024.webp",
+      "https://i.seadn.io/s/raw/files/6a33d1e120b636e66b5675655efa4f73.png?auto=format&dpr=1&w=1000",
     name: "Cheese Happens",
     url: "https://app.manifold.xyz/c/MeansSzn5Card12",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/127/",
