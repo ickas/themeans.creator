@@ -16,7 +16,7 @@ export const wdym = [
     endDate: "2024-03-22",
   },    
    {
-    image: "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/64655d2f34292bf89b9e17bf3e1edc7d7de5dbb0744910e610b49debe7a553cb.webp",
+    image: "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/64655d2f34292bf89b9e17bf3e1edc7d7de5dbb0744910e610b49debe7a553cb.webp",
     name: "The Sgt Pepe Crew Takes Flight - collab with Julia - @nft_lady_007",
     url: "https://app.manifold.xyz/c/TheSgtPepeCreTakesFlight",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/124/",
@@ -24,7 +24,7 @@ export const wdym = [
     endDate: "2024-04-15",
   },    
    {
-    image: "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/0e03a4bb8cba74f21223e0c1d814c132d3b8876f21645e07394afebab22cf385.webp",
+    image: "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0e03a4bb8cba74f21223e0c1d814c132d3b8876f21645e07394afebab22cf385.webp",
     name: "WEB3 Inclusivity Problem-Solving",
     url: "https://app.manifold.xyz/c/WEB3Inclusivity",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/109/",
