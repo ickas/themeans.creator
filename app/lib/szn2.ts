@@ -1060,4 +1060,13 @@ export const szn2 = [
     startDate: "2024-02-23",
     endDate: "2024-07-31",
   },
+    {
+    image:
+      "https://i.seadn.io/s/raw/files/f0f88a325a21dce44b75f588d5fd2430.gif?auto=format&dpr=1&w=1400&fr=1",
+    name: "Move to Piss Everybody Off",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card13",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/129/",
+    startDate: "2024-02-26",
+    endDate: "2024-07-31",
+  },
 ];
