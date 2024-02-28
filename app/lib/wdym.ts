@@ -16,7 +16,7 @@ export const wdym = [
     endDate: "2024-03-22",
   },    
    {
-    image: "https://i.seadn.io/s/raw/files/56c1ed0c622bf131b509fc6687f7b040.png?auto=format&dpr=1&w=1400&fr=1",
+    image: "https://i.seadn.io/s/raw/files/9041a25e50d51bc2da62827461601525.png?auto=format&dpr=1&w=1400&fr=1",
     name: "The Sgt Pepe Crew Takes Flight - collab with Julia - @nft_lady_007",
     url: "https://app.manifold.xyz/c/TheSgtPepeCreTakesFlight",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/124/",
