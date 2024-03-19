@@ -1,6 +1,14 @@
 export const wdym = [
     {
-    image: "https://assets.manifold.xyz/optimized/a032be2361feda0f7ba1e34117cd531b07059504bf2580588da871b73f45b790/w_1024.webphttps://assets.manifold.xyz/optimized/ca4422944e6edd1d968e07885bf7733aa983387bdfd262ea64573764b2620a3f/w_1024.webp",
+    image: "https://i.seadn.io/s/raw/files/e0fb695da39f3278dbe5d96ea672c3e1.png?auto=format&dpr=1&w=1000",
+    name: "Sir Pepe Wallace Freedom Card",
+    url: "https://app.manifold.xyz/c/SIRPepeWallaceFreedomCard",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/132/",
+    startDate: "2024-03-19",
+    endDate: "2024-04-19",
+  },  
+    {
+    image: "https://i.seadn.io/s/raw/files/fb3e22e46d76c053eefd7e2a766f2ad2.png?auto=format&dpr=1&w=1000",
     name: "Sgt Pepe WAGMI Party Freedom Card",
     url: "https://app.manifold.xyz/c/SgtPepeWAGMIPartyFreedomCard",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/131",
@@ -8,7 +16,7 @@ export const wdym = [
     endDate: "2024-04-12",
   },  
     {
-    image: "https://assets.manifold.xyz/optimized/ca4422944e6edd1d968e07885bf7733aa983387bdfd262ea64573764b2620a3f/w_1024.webp",
+    image: "https://i.seadn.io/s/raw/files/56c1ed0c622bf131b509fc6687f7b040.png?auto=format&dpr=1&w=1400&fr=1",
     name: "REINA RANA Freedom Card",
     url: "https://app.manifold.xyz/c/REINARANAFreedomCard",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/130/",
