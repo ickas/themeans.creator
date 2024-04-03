@@ -17,7 +17,6 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "assets.manifold.xyz",
-        pathname: "/image/upload/**",
       },
     ],
   },
