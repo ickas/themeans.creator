@@ -1069,4 +1069,22 @@ export const szn2 = [
     startDate: "2024-02-26",
     endDate: "2024-07-31",
   },
+    {
+    image:
+      "https://assets.manifold.xyz/optimized/ca69fcc65d5a852e4de6b0e6c833e350fa7eab51b9122867ad969739dea9f20b/w_1024.jpg",
+    name: "Sweet Dreams",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card14",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/133/",
+    startDate: "2024-03-21",
+    endDate: "2024-07-31",
+  },
+    {
+    image:
+      "https://assets.manifold.xyz/optimized/6bb5781e45808417dd79c1b2322296fa83ceef66bf1ee5180bd14ad8bd5b1da7/w_1024.jpg",
+    name: "War and Peace will never be the same again",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card15",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/134/",
+    startDate: "2024-03-25",
+    endDate: "2024-07-31",
+  },
 ];
