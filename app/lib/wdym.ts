@@ -1,5 +1,13 @@
 export const wdym = [
     {
+    image: "https://assets.manifold.xyz/optimized/00fd55691f3de2413b3506c8017b1f67dc568fdda4635803cf9f019937ce13d8/w_1024.jpg",
+    name: "Major Karen Pepe Freedom Card",
+    url: "https://app.manifold.xyz/c/MajorKarenPepeFreedomCard",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/135/",
+    startDate: "2024-03-29",
+    endDate: "2024-04-29",
+  },  
+    {
     image: "https://i.seadn.io/s/raw/files/e0fb695da39f3278dbe5d96ea672c3e1.png?auto=format&dpr=1&w=1000",
     name: "Sir Pepe Wallace Freedom Card",
     url: "https://app.manifold.xyz/c/SIRPepeWallaceFreedomCard",
