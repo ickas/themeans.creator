@@ -8,6 +8,10 @@ const nextConfig = {
       },
       {
         protocol: "https",
+        hostname: "d1updk8hq321rl.cloudfront.net",
+      },
+      {
+        protocol: "https",
         hostname: "i.seadn.io",
       },
       {

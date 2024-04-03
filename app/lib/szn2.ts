@@ -1044,7 +1044,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/fcfc904c0f6c5c66012c493854a8024be0840626b82d628534a8772992eeea9c.webp",
+      "https://d1updk8hq321rl.cloudfront.net/optimized/fcfc904c0f6c5c66012c493854a8024be0840626b82d628534a8772992eeea9c/w_1024.webp",
     name: "By Any Means Necessary",
     url: "https://app.manifold.xyz/c/MeansSzn5Card11",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/125",
