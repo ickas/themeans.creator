@@ -53,7 +53,7 @@ export const wdym = [
     url: "https://app.manifold.xyz/c/TheSgtPepeCreTakesFlight",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/124/",
     startDate: "2024-02-15",
-    endDate: "2024-04-15",
+    endDate: "2024-03-10",
   },    
    {
     image: "https://i.seadn.io/s/raw/files/b0fef768529f6b091bf37f57702ed779.png?auto=format&dpr=1&w=1400&fr=1",
