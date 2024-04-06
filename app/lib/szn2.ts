@@ -1,7 +1,7 @@
 export const szn2 = [
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/844fba1eb1d98985059adc93043c6fe3249dee0d77d2eb05607842359d38073f.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/6d938941da7073dbfdea6bd2bf7e959c.avif",
     name: "Survive Together",
     url: "https://app.manifold.xyz/c/MeansSzn2Card1",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/2",
@@ -10,7 +10,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/fefd32551e54533d2335918d17ae6f1f6248ab83439e0f54bde45815ee416824.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/29aa2ae84911e22581cd121deefc6689.avif",
     name: "No FOMO, no COPE",
     url: "https://app.manifold.xyz/c/MeansSzn2Card2",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/3",
@@ -19,7 +19,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/704032c1b662f8bd44a7f17a161aa754e6658b2f4a2e1436b66e7bc3a955e1de.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/7170c628618440d78728edbbd3b7667d.avif",
     name: "Summer Ocean",
     url: "https://app.manifold.xyz/c/MeansSzn2Card3",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/5",
@@ -28,7 +28,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/acc4031011745ea953a3de6dee933591ed904ac0f228f45c1a63c93ab18489e2.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/0437d3b3a12c70e9fa1c655808aa1431.avif",
     name: "21st Century Security",
     url: "https://app.manifold.xyz/c/MeansSzn2Card4",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/7",
@@ -37,7 +37,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ee87b79f8f82d19ff14ccce863466ae9585509afcf1a3687a93ddcb87067b8c4.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/1cec4b32c359a3a572998bc836e27687.avif",
     name: "On-chain GM",
     url: "https://app.manifold.xyz/c/MeansSzn2Card5",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/9",
@@ -46,7 +46,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/48ab4cdabd9b370b99b87d4b380eb1addbdf440d1828999a5e3ba82ebb4cd777.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/3f8a589345a406e2ac87492dadabc651.avif",
     name: "Come and Unbank it",
     url: "https://app.manifold.xyz/c/MeansSzn2Card6",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/10",
@@ -55,7 +55,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/e8710fc99063fc1984794dc928c0a6c9a4219b429a3ce78b6588df22ec897104.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/369f0a7b8b78dc79e1b2132a221a19ef.avif",
     name: "Freedom to Breathe",
     url: "https://app.manifold.xyz/c/MeansSzn2Card7",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/11",
@@ -64,7 +64,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/89d64070b22ab1d35fdda462f788ec81dd2f5ea540388d27c7a8796e473ff33e.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/fa1e686fbf0e50821f82dab5e4404ba8.avif",
     name: "1 Billion Nouns",
     url: "https://app.manifold.xyz/c/MeansSzn2Card8",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/12/",
@@ -73,7 +73,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/c3c2c7fbbe698afbd5fc9de13cfd0ea660eef9e8196f2783ec12e00927826c92.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/19137392066fe71a0451171949b9a65f.avif",
     name: "WAGMI Hopelands",
     url: "https://app.manifold.xyz/c/MeansSzn2Card9",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/13/",
@@ -82,7 +82,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/c655bd3d4c54359cf655e880ba87f0432fdeaa38344ddcc02b2f6ef549c97ba5.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/859fcb95c81697f0156fbd5bc328848e.avif",
     name: "Gm Freely",
     url: "https://app.manifold.xyz/c/MeansSzn2Card10",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/14/",
@@ -91,7 +91,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/84c9c19f2bfa215ff46e97b05d45156f9a0e872641803e1f08f5a9d5ed6dfbd8.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/b3657a766c15773810fda7449a8b12f3.avif",
     name: "Ser Richard C. Butt",
     url: "https://app.manifold.xyz/c/MeansSzn2Card11",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/15/",
@@ -100,7 +100,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/1ee3235f5cfd666d89d9717f6ff79f4b208f4a2592d95bd8afd92bedc727e0cc.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/b94c8f0c88399947565bbf29d42b2bd7.avif",
     name: "The Provenance",
     url: "https://app.manifold.xyz/c/MeansSzn2Card12",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/16/",
@@ -109,7 +109,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/392dbb7fcd80922c7e76e6360eb045ea84d6e1e045c4322d88b55379bd7a78b9.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/65a47f44b28b1d2670c774ee58c09b30.avif",
     name: "REvolution",
     url: "https://app.manifold.xyz/c/MeansSzn2Card13",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/17/",
@@ -118,7 +118,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/59f3c39a9fd270e89fc2b4c3f9567feb9bb8d075fd161e54cf0844f06bc9e7ca.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/fca605f9d22d36837e2ba6f1750f1d33.avif",
     name: "FreedOM Fight",
     url: "https://app.manifold.xyz/c/MeansSzn2Card14",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/18/",
@@ -127,7 +127,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/aa9fa713e907b38cb3ab21a239fd95d79ede4790045ec19d71227dc2b9bc609d.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/ff0a5526fdaffdebfcbb321f3548d9ce.avif",
     name: "Working Daydreams",
     url: "https://app.manifold.xyz/c/MeansSzn2Card15",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/20",
@@ -136,7 +136,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/c62ba66b80051ec4383f5e0b039b7ef72e878063d7201f1ef7fc385a5ee326e2.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/085e9c1d29e49ed481527d975fa70252.avif",
     name: "NFTland Parade",
     url: "https://app.manifold.xyz/c/MeansSzn2Card16",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/21/",
@@ -145,7 +145,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/4b6ec7d668f0992a849b302ea18220ced8f4759e17d659beff8bd99e46313e8c.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/d15791026bae70f52013ee8eebb204e2.avif",
     name: "Your Empire, Your Keys",
     url: "https://app.manifold.xyz/c/MeansSzn2Card17",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/22/",
@@ -154,7 +154,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ef7562ca96070b0312f230a46d51fff897661a24d5d0df839ccc39096391a133.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/758ba6e86bdb78b0419a5c1e4b6f54dd.avif",
     name: "The ReMeme WAGMI",
     url: "https://app.manifold.xyz/c/MeansSzn2Card18",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/23/",
@@ -163,7 +163,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0aed2218e3abb23a2d4f504234833c70dba81e13948004c256c6d08e18bda5ab.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/be8ed3c6a3a8686d51d4acc774590b04.avif",
     name: "Listen",
     url: "https://app.manifold.xyz/c/MeansSzn2Card19",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/24/",
@@ -172,7 +172,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/489c381a9131719b1747281165b0a24b6adaac7f03726557edd85d2f4244b89c.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/c15259c34badf6fab5e8781493f5210b.avif",
     name: "We The Artists",
     url: "https://app.manifold.xyz/c/MeansSzn2Card20",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/25/",
@@ -181,7 +181,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/7a0965eae1bd8b6e05a22bb96772833eb3034e0348d3a138c0d86f44b5f62886.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/000f54531f5c18f08c81fd841cbf85dc.avif",
     name: "Survive Mode",
     url: "https://app.manifold.xyz/c/MeansSzn2Card21",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/26/",
@@ -190,7 +190,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/549ca110f040efec10d5809f8984ab6e0c9a9d95de15160bc9538ef61a313656.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/8ccc32b8c844f9b93f001e269e9d3674.avif",
     name: "Unchained to the System",
     url: "https://app.manifold.xyz/c/MeansSzn2Card22",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/27/",
@@ -199,7 +199,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ae09a8b4ae7f90ad347eb8bb437dea76a537490946ba464af7d7c6722eda9f8e.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/3b99cae3e8b13e4bb5ce84ca0c2cfb3e.avif",
     name: "Digital Rights are Right",
     url: "https://app.manifold.xyz/c/MeansSzn2Card23",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/29/",
@@ -208,7 +208,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/503210940b1ebb0d2399f73574f3c640ccd4dcfc9c9c91899002cdff025f05ed.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/7af069a0afd98ba3bbdc7216eb50d29e.avif",
     name: "Greedy Art",
     url: "https://app.manifold.xyz/c/MeansSzn2Card24",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/30/",
@@ -217,7 +217,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/d1fbea5eeea4bff1b76492975d76df7f5150b9203326deef526f03975e29dc0d.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/8f948ec42fcb3fc2f7712b9b85f0a1c8.avif",
     name: "Rare-Sakura",
     url: "https://app.manifold.xyz/c/MeansSzn2Card25",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/31/",
@@ -226,7 +226,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/90c8a86a2a767f100763f9539a6a290359380acab5576b11a9c772e73c90f551.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/9656acd0d1e2c8b86462ab0c340b9810.avif",
     name: "Freedom-filled Wallet",
     url: "https://app.manifold.xyz/c/MeansSzn2Card26",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/32/",
@@ -235,7 +235,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/da4b7b536cea1c33b035f09784210d5eea98285221e8eea40ac49cee1ca3fe36.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/74ce5cd886ed156c637c4ebf8d575e09.avif",
     name: "Artist Survival Tactics",
     url: "https://app.manifold.xyz/c/MeansSzn2Card27",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/33/",
@@ -244,7 +244,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://arweave.net/vWT9B5OFkkj85Nd4AtWeKhPVvRlLNxDKEuP7F0FknmQ",
+      "https://themeanscreator.b-cdn.net/season2-5means/ca02fdb023c8e701807b5ce02b5fe06c.avif",
     name: "Wine & WAGMI",
     url: "https://app.manifold.xyz/c/MeansSzn2Card28",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/34",
@@ -253,7 +253,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/5be45c6bff9c1b08840a1f9032abdaf067fe8269ba2d74dacb5ee34b2ef033f5.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/83b3b0155e67ab0457c6173269fea53f.avif",
     name: "#2020 GMonster",
     url: "https://app.manifold.xyz/c/MeansSzn2Card29",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/35",
@@ -262,7 +262,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/7f71376346ba3f0dad83b8e7dbcea760db11bfb14ac5f79b1c0f5f776028e75d.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/07c3f434c1d3d7beb4b2b6856848dc93.avif",
     name: "6529 Fam Starter Pack",
     url: "https://app.manifold.xyz/c/MeansSzn2Card30",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/36",
@@ -271,7 +271,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/e3be072b096e25ff2dc123998f22ca9cb1136495272379f256ee0e9fb1d80209.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/1e7703d9312a60b51f9c616e632fb5a5.avif",
     name: "Battleground",
     url: "https://app.manifold.xyz/c/MeansSzn2Card31",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/37",
@@ -280,7 +280,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/12f04d14f117afad519d603128ef6d5b8773711bea15595079aaa92a2a4f0291.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/eaea0ac233fda672d396e928db910a5e.avif",
     name: "Is this RL?",
     url: "https://app.manifold.xyz/c/MeansSzn2Card32",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/38",
@@ -289,7 +289,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/26b426360950e2a72de1e25331a08b418b0b77ffa7386515f7b3f020ce1d9a24.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/6a40d726839318abf8e7f137f895ff53.avif",
     name: "No Metaverse, no Life",
     url: "https://app.manifold.xyz/c/MeansSzn2Card33",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/39",
@@ -298,7 +298,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/c5f004f6151c181b69c0944b13180b71fac5cae6ef2b0441a83aa07207a2bdce.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/5388de29fa1acab178116ca1ffaa7324.avif",
     name: "No FOMO/COPE Today",
     url: "https://app.manifold.xyz/c/MeansSzn2Card34",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/40",
@@ -307,7 +307,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/5c53836945a012c369b9b58a89de802b7a36de1f1883cf95fcde854422717419.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/9a21677c7b4e5af8264cb0d75974fb34.avif",
     name: "Mission 6529",
     url: "https://app.manifold.xyz/c/MeansSzn2Card35",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/41",
@@ -316,7 +316,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/8275cc478311b367985336b0992942f7326a179f625412c17edbc71033f9de8c.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/5f0dc7aad7d745cb174ca7e9a4ea320e.avif",
     name: "Decentralizing Station",
     url: "https://app.manifold.xyz/c/MeansSzn2Card36",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/42",
@@ -325,7 +325,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/418ab3c63535721e2a2253293d396a8c5a700140ed8777b1b58944f1f6c5c0a8.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/36aff8e17a9e1160230dd6854a416448.avif",
     name: "Alice in the Window",
     url: "https://app.manifold.xyz/c/MeansSzn2Card37",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/43",
@@ -334,7 +334,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/14544d52a005a97e3ba3784f917b726aafed5cf5b2341ae82af958401ab5a848.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/5d4fa3ddf8248ed056c9fe23e4be4dad.avif",
     name: "Shred the Brain Prompts",
     url: "https://app.manifold.xyz/c/MeansSzn2Card38",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/44",
@@ -343,7 +343,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/7dbf35691e8b1e9dd8ab2ec9222955dd323fd0db70411b428c2a983ffb986ceb.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/18e288778d3d0bfbdf7c8c9e117e1752.avif",
     name: "People of Crypto",
     url: "https://app.manifold.xyz/c/MeansSzn2Card39",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/45/",
@@ -352,7 +352,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/a25dbcc594af8105e4ebc8d3180de02f61644f0a331807c8a3bcd4efc5f06405.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/7c0026092fb72faf224e280c5834fbf8.jpg",
     name: "47 Means-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn1",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/6",
@@ -361,7 +361,7 @@ export const szn2 = [
   },
   {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/26c6589c54b5ae2ef67ed4f079ba97fb74cb7629681dacc192f5316f3986954d.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/aaed8bc8f0da7bb5343e7d0b31bc7526.jpg",
     name: "SZN2 All-in-1",
     url: "https://app.manifold.xyz/c/Means47N1Szn2",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/8",
@@ -370,7 +370,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://arweave.net/Pmu58rxbf2i3KNM2Lsb0XilF5Lv866_g3fYicONk00k",
+      "https://themeanscreator.b-cdn.net/season2-5means/0c02f835d370c52bf5d855503c8152d8.avif",
     name: "Wake up, NFTs are coming",
     url: "https://app.manifold.xyz/c/MeansSzn3Card1",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/47",
@@ -379,7 +379,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://arweave.net/osMrI2LiQp9zu_XuXC7H-v0eQzWc77E051mTEzDP2yY",
+      "https://themeanscreator.b-cdn.net/season2-5means/2f63b8bf6b0a8ce99372f68cb6f82953.avif",
     name: "The NFTing",
     url: "https://app.manifold.xyz/c/MeansSzn3Card2",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/48/",
@@ -388,7 +388,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/a66881aacea6c4791268eea39256fd878d5c0de12973e0dfead9b621d3e27583.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/c828cdffc7a4b979910813c64eccc86c.avif",
     name: "GM FOR THE WIN",
     url: "https://app.manifold.xyz/c/MeansSzn3Card3",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/49/",
@@ -397,7 +397,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/4b9223c35d8f6993e311223d2a3679338d910250a2d716a81f5af7bd8315cd86.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/7752c8f9b43155fe32cefc384647f2da.avif",
     name: "Memes will Survive",
     url: "https://app.manifold.xyz/c/MeansSzn3Card4",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/50/",
@@ -406,7 +406,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/cbfc8f659ef8b6e9a27dac708dfef41c2730ac44cb3404ee07e60cc476d0f67f.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/469ad7aa7a09f552c82acd16a14ce04e.avif",
     name: "We, the Buidlors",
     url: "https://app.manifold.xyz/c/MeansSzn3Card5",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/51/",
@@ -415,7 +415,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/cad611c63d1bc8a727dc9f16206fe9b53738cba3df0c5f417296219f4edf3772.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/7b3deb548183e810d07cadd996aa7aea.avif",
     name: "Save Yourself",
     url: "https://app.manifold.xyz/c/MeansSzn3Card6",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/52/",
@@ -424,7 +424,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/6a0f0d784b6bf0d263439c2be54e6467790472018e8b3717671339d336f9fb2f.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/c7c52e6c6acc7fd52dd46862a216328e.avif",
     name: "The Goddess of Up Only",
     url: "https://app.manifold.xyz/c/MeansSzn3Card7",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/53/",
@@ -433,7 +433,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/f369308804aaf0519371a9e75aee5cf9b40c05b0bdf4e5afdb96381af452e34e.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/0ceaa9e902585f5a2e98a0b593fcd2d2.avif",
     name: "House of the Inevitables",
     url: "https://app.manifold.xyz/c/MeansSzn3Card8",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/54/",
@@ -442,7 +442,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/5bef2219866215367a58213bd3a9431ed17b395c6337a1db3edc2129203469cd.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/9db47d23d8832923a6a222809f0b8fb4.avif",
     name: "WAGMI: Provenance",
     url: "https://app.manifold.xyz/c/MeansSzn3Card9",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/55/",
@@ -451,7 +451,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/251587116b9d76276cc4e40ceb3416bb570da48bda2501ac8987229f38c84be2.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/f15d50cbfd4554c5b85211b5eddebcbc.webp",
     name: "Come in",
     url: "https://app.manifold.xyz/c/MeansSzn3Card10",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/56/",
@@ -460,7 +460,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/710354ff5b7015e6e9e791ea14bd364d5ee8702d14d99e69fabdc5ecddca3af7.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/1a0e228e6481b0c2cced24514a643316.webp",
     name: "NFT Twitter was Special",
     url: "https://app.manifold.xyz/c/MeansSzn3Card11",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/57/",
@@ -469,7 +469,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/7790cc70208e72a8f8d0e5187e2b628d8d51b4252f204f4bdf6c59b3097a153c.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/bd459545d689926b81a859ef85f653ca.avif",
     name: "Shape the Memes",
     url: "https://app.manifold.xyz/c/MeansSzn3Card12",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/58/",
@@ -477,7 +477,7 @@ export const szn2 = [
     endDate: "2024-01-13",
   },
     {
-    image: "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/8b7f7d031fc261deda35395907582549b1e516dd329957ff4a786e6ee06fa2b5.gif",
+    image: "https://themeanscreator.b-cdn.net/season2-5means/c264c3d4e5235a503d600a62ed43bd63.gif",
     name: "Maths beats Bullets",
     url: "https://app.manifold.xyz/c/MeansSzn3Card13",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/59/",
@@ -486,7 +486,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/83b8d712b2a8baddc957401de93e85c5de04689d629b5eb6a016d3d3179b4ea0.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/5c10fe067fb73b1e0222f7824128a2e2.avif",
     name: "Not being happy is NGMI",
     url: "https://app.manifold.xyz/c/MeansSzn3Card14",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/60/",
@@ -495,7 +495,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/c64b385e49e916e257d303e6f007de5d4ed6ae6d3ee70578cd068ac4428c980d.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/2280ebc9eb8427c0737eed672fbe1ffe.avif",
     name: "Vital DYOR",
     url: "https://app.manifold.xyz/c/MeansSzn3Card15",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/61/",
@@ -504,7 +504,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/65fe188327b9ecf39d0491915ca7218db59cec8998561b663ba27260374663df.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/8d6cee7cf34775debff65bb9a2cc9291.avif",
     name: "Seducing 100,000,000 People",
     url: "https://app.manifold.xyz/c/MeansSzn3Card16",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/62/",
@@ -513,7 +513,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/df2e20e09dfb2163d4f3f1b96ee05b9d3df1a1aa67e51af326fe5c671a271d75.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/0cd4caa4de07dc3d0367bd32bb2ff7af.avif",
     name: "Trading in Freedom",
     url: "https://app.manifold.xyz/c/MeansSzn3Card17",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/63/",
@@ -522,7 +522,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/608e08f6d5552cd74e28a291f3b5b0233acfec107715633aec0a1f970c7e1665.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/aa1a254eebb539ce9bc0d2d7616c10c3.avif",
     name: "Forward | Never Backward",
     url: "https://app.manifold.xyz/c/MeansSzn3Card18",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/64/",
@@ -531,7 +531,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/6b076b4a24e1f083777a016391ad01422235379bfdec4ff1e9190ac19a927c17.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/5f5b8764eaf0de8fc8b105e75c1dc7d0.avif",
     name: "The Fortune of Overgrown Apes",
     url: "https://app.manifold.xyz/c/MeansSzn3Card19",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/65/",
@@ -540,7 +540,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/990f1e1e74a80fb6fd9c6721e75ad2f6757b5c6f060678e248c9ef1f84f15f54.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/1c79e899cbd6e6b8d9235990e85cec3f.avif",
     name: "Just Shoot",
     url: "https://app.manifold.xyz/c/MeansSzn3Card20",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/66/",
@@ -549,7 +549,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/932faff4d80d5f10b5bd79a8d32544859a21c33d1ad63f2cee1281f6546526cd.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/04753db307d45afec5fc996eed8b8ebf.webp",
     name: "HODL Mode",
     url: "https://app.manifold.xyz/c/MeansSzn3Card21",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/67/",
@@ -558,7 +558,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/7548cddd8c8e0d570b9280b884d0457366b892633efabfec1198b8acf4fcd636.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/7087231393c56f71d8891bf8d92419c0.avif",
     name: "The Indifferent Bear",
     url: "https://app.manifold.xyz/c/MeansSzn3Card22",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/68/",
@@ -567,7 +567,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/248a98499198435b012cf1c5de12258baa3e063c48652de0762afead007ba961.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/ac9b5a17e84baafb74c6f1f16d47b7f6.gif",
     name: "gm, world",
     url: "https://app.manifold.xyz/c/MeansSzn3Card23",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/69/",
@@ -576,7 +576,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/2e72ada043cb319d82ba324ea919a7a58def4d0b708b057cedc1f56d5a2f3dec.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/c91842e84debbc46a372e3438da9987e.gif",
     name: "The Beacon Stays On",
     url: "https://app.manifold.xyz/c/MeansSzn3Card24",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/70/",
@@ -585,7 +585,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/f37890863773865009f0bb6ca37234019cadb3fca3d625f40735220856b5dbf1.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/6917b968c5902b4f1a85335161e3c2d9.avif",
     name: "One Freedom",
     url: "https://app.manifold.xyz/c/MeansSzn3Card25",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/71/",
@@ -594,7 +594,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/ad72a4b9845db617a3e4f575df3e59a30d524776fbe8085230a336c637713653.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/59dc9f175b87b0d670eb118dae23dafe.avif",
     name: "Echoes of GM",
     url: "https://app.manifold.xyz/c/MeansSzn3Card26",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/72/",
@@ -603,7 +603,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/3afec1bd3a91dad05e984118b75ccbef3cb62629075d21e310d0e308ae7af0e4.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/cd8ab8c8881af8e17a6b5a125dfe4a5c.gif",
     name: "Embracing Time",
     url: "https://app.manifold.xyz/c/MeansSzn3Card27",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/73/",
@@ -612,7 +612,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/7854849af9cdc5346728f8883db0c844ccc5b092c83219babdcb4a1c0256b116.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/ecb335c6e11e7f6946bd1cbd2967331e.avif",
     name: "Hxstory Rxpeats",
     url: "https://app.manifold.xyz/c/MeansSzn3Card28",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/74/",
@@ -621,7 +621,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/fe528fd39292b084b4b72dc3d78cdce0cfd5a2283aeeecb8e0757be954cded8f.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/55aeea6a2b9505316566fa2c595ca5a0.gif",
     name: "The TAP Lane",
     url: "https://app.manifold.xyz/c/MeansSzn3Card29",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/75/",
@@ -630,7 +630,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/089c5408cb6d8a32f577ef2b3073cc6da6834e16cced12e1985d2a02b0ff9f3b.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/ff214195a9a3c80eb173b36b9de0ee69.webp",
     name: "Found & Never Lost",
     url: "https://app.manifold.xyz/c/MeansSzn3Card30",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/76/",
@@ -639,7 +639,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/08d48a1f3d0ffe098e2a74bfe9ff1fd82531ab8203874054fe74fac77b5ccb9d.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/30d33cf2c0f2c6e31e5fc78b42c78cf9.gif",
     name: "Meaning is Everything",
     url: "https://app.manifold.xyz/c/MeansSzn3Card31",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/77/",
@@ -648,7 +648,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a249031084602c22e5bc86d3e5df035c827432839bd0d7b1c9e81125ec494acd.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/8ecc5bc2491937c91467e65d96d92e32.avif",
     name: "Tourists vs Stayooors",
     url: "https://app.manifold.xyz/c/MeansSzn3Card32",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/78/",
@@ -657,7 +657,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/ac467f19bca4e4d1c388325d7b237ab3c6b3c29bb91b73303dc48db2433e28fd.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024.webp",
     name: "Winter at the Beach",
     url: "https://app.manifold.xyz/c/MeansSzn4Card01",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/79/",
@@ -666,7 +666,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ff1104d1b73ff5c2d7928000a349783d562204f9217e6740f4298599e85b70c5.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-1.webp",
     name: "Play for a Decade",
     url: "https://app.manifold.xyz/c/MeansSzn4Card02",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/80/",
@@ -675,7 +675,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/40cd51944741c1b2088f40614487d081bbeb92b06800bb9940256fa30f0bf8f1.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-2.webp",
     name: "Don't let them bully you",
     url: "https://app.manifold.xyz/c/MeansSzn4Card03",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/81/",
@@ -684,7 +684,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/75c4a0bf5264a516cca575e51ce9d3846774e2ed0df1729c9238e4c1abe5d30b.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-3.webp",
     name: "Everyone is coming",
     url: "https://app.manifold.xyz/c/MeansSzn4Card04",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/82/",
@@ -693,7 +693,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/62664e05f74d2daa4a496b14d5491adf9bbccfdab3ee725d7c6a312f844a4585.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-4.webp",
     name: "Going somewhere?",
     url: "https://app.manifold.xyz/c/MeansSzn4Card05",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/83/",
@@ -702,7 +702,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/1ca400687201a02f8462853cab958a72ef8ff943d145bf043bd98565d38401ea.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-5.webp",
     name: "Winner, winner, chicken dinner",
     url: "https://app.manifold.xyz/c/MeansSzn4Card06",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/84/",
@@ -711,7 +711,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/b8c88f03de79522658a17ae32531adb7c1c2c67c3c84aafb3cb1d9e0fe9666db.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-6.webp",
     name: "Unapproved Creations",
     url: "https://app.manifold.xyz/c/MeansSzn4Card07",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/85/",
@@ -720,7 +720,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/f8c31b9a94cbf7a00202721ef7d320d5a10f8981f560d516474f367246209742.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-7.webp",
     name: "Pre-Packaged Beliefs",
     url: "https://app.manifold.xyz/c/MeansSzn4Card08",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/86/",
@@ -729,7 +729,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/9a47acb222bc4b5bd76523d6e0b88186315d7190cdf0b1c45787eea3bee29d16.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-8.webp",
     name: "Forever and Ever",
     url: "https://app.manifold.xyz/c/MeansSzn4Card09",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/87/",
@@ -738,7 +738,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/b139c677e15696413b17d1d457ddb038e8cecad38c06402d21322caac982e05c.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-9.webp",
     name: "Summer of 2030",
     url: "https://app.manifold.xyz/c/MeansSzn4Card10",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/88/",
@@ -747,7 +747,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/0f913472318d5dd2afcb9adb779e4c22fc8878d9bda01429a8e3ae7d30a09286.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-10.webp",
     name: "The Waiting Game",
     url: "https://app.manifold.xyz/c/MeansSzn4Card11",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/89/",
@@ -756,7 +756,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/1646550427da3ca2bc726d8ffdf9038ace1861ecb0a48e2f957eebdf6485dbb0.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-11.webp",
     name: "The Truth",
     url: "https://app.manifold.xyz/c/MeansSzn4Card12",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/90/",
@@ -765,7 +765,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/b14eef499be8d0e6fa631bc46c6866370d36c1e350c79e8aa5219cf3368036a4.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-12.webp",
     name: "Nobody vs Everyone",
     url: "https://app.manifold.xyz/c/MeansSzn4Card13",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/91/",
@@ -774,7 +774,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/236e912d7c38473a2b410863ea204b008072e202196bca5ba1ea6b072953729b.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-13.webp",
     name: "Keeping your cool",
     url: "https://app.manifold.xyz/c/MeansSzn4Card14",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/92/",
@@ -783,7 +783,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0ba1793134ac2217a435673ffc9fe653fc7c5d6820f2f018345f366056777b27.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-14.webp",
     name: "Brain Cycles",
     url: "https://app.manifold.xyz/c/MeansSzn4Card15",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/93/",
@@ -792,7 +792,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/b6d172c4460f31d46d6a6a57175850c0aba6b66a4e9b5ddc08ec19711ef72f8d.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-15.webp",
     name: "No Other Way",
     url: "https://app.manifold.xyz/c/MeansSzn4Card16",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/94/",
@@ -801,7 +801,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/7a2170902f01f60908eb7fca043ebb65c5b428290bde21ae3016f3112320c8ba.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-16.webp",
     name: "Regular Metaverse",
     url: "https://app.manifold.xyz/c/MeansSzn4Card17",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/95/",
@@ -810,7 +810,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_600/1577b6c67686301ddaa430e8d3298452aa9c33237f8b0f6c4d140e2be1bcd23d.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-17.webp",
     name: "Unstoppable Time",
     url: "https://app.manifold.xyz/c/MeansSzn4Card18",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/96/",
@@ -819,7 +819,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/b144a5d76ed0b8d2a2b946887856dea4f9597f4753c6f68f0794474c7ea02fd0.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-18.webp",
     name: "Freedom to Dream",
     url: "https://app.manifold.xyz/c/MeansSzn4Card19",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/97/",
@@ -828,7 +828,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/06f23707d8d83c14032b1b480e59490eb560fb4a3f73818e6737f129d497ee10.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-19.webp",
     name: "FAFO into the Light",
     url: "https://app.manifold.xyz/c/MeansSzn4Card20",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/98/",
@@ -837,7 +837,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/efd87366ad32d8ccc7d5905e4a62aed8de2483ac0424159fd09e76519fa7d96a.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-20.webp",
     name: "Plug n Learn",
     url: "https://app.manifold.xyz/c/MeansSzn4Card21",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/99/",
@@ -846,7 +846,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/09c9d28d130aced6b7ef54bd122527c170a059f21308d760dfd40d072d9b0e90.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-21.webp",
     name: "OM Island",
     url: "https://app.manifold.xyz/c/MeansSzn4Card22",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/100/",
@@ -855,7 +855,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/973038104e12f862cab239c90e7e448a26ffb013bff01305091e3358214f881b.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-22.webp",
     name: "Common Crypto Sense",
     url: "https://app.manifold.xyz/c/MeansSzn4Card23",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/101/",
@@ -864,7 +864,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/75bf20d4a4dffd750cbef2e9326ca6ded86414c469ad2144feaff545ae39e470.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-23.webp",
     name: "Time to Keep Going",
     url: "https://app.manifold.xyz/c/MeansSzn4Card24",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/102/",
@@ -873,7 +873,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/96a41f5b7ea11ec1f6421b24931a36c939c52d8f1917cab1fdc31ff5faf4c98b.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-24.webp",
     name: "The NFT Allegiance",
     url: "https://app.manifold.xyz/c/MeansSzn4Card25",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/103/",
@@ -882,7 +882,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ba2dfe5fe778fc409d02cc8f9cf27964a990b46c9ae7a8f715880032619cb937.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-25.webp",
     name: "Diamond-grade Security",
     url: "https://app.manifold.xyz/c/MeansSzn4Card26",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/104",
@@ -891,7 +891,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/a2c88000593b34b7b947a4f9610212572b9fbc3300c073889a43d8aee3eb9db4.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-26.webp",
     name: "Optimistic Hopium",
     url: "https://app.manifold.xyz/c/MeansSzn4Card27",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/106/",
@@ -900,7 +900,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/4264b5c81a461efe487b1fcbce3849a7a27fc903818026aa4fe90b1e67b1e9c3.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-27.webp",
     name: "Building Feels Good",
     url: "https://app.manifold.xyz/c/MeansSzn4Card28",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/107",
@@ -909,7 +909,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/1a802dc024f22f5fe134b48272731b28014e40c2cb8c10e670bc351c44386fd4.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-28.webp",
     name: "Wen Valhalla",
     url: "https://app.manifold.xyz/c/MeansSzn4Card29",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/108/",
@@ -918,7 +918,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/d20f5ffff325e5818dea1a985d382b4c77c535d04346656dcf27bd570d82182a.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-29.webp",
     name: "Physical to Digital",
     url: "https://app.manifold.xyz/c/MeansSzn4Card30",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/110/",
@@ -927,7 +927,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/c0491ff3dbe68e87d9f2e8df02b6b1605be16c14ed58ff592c379986f32a8567.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-30.webp",
     name: "Proof of Seizing",
     url: "https://app.manifold.xyz/c/MeansSzn4Card31",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/113/",
@@ -936,7 +936,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/250039848f2ed86d136fafcc424e7e1676193c187917146786378d243666a766.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-31.webp",
     name: "Your Digital Rights Exist",
     url: "https://app.manifold.xyz/c/MeansSzn4Card32",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/111/",
@@ -945,7 +945,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/afb8f669c16a3b6ede7993fd9cb8d173efed6b9ee4dcf9dc69e758d864e26ff1.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-32.webp",
     name: "Veritas",
     url: "https://app.manifold.xyz/c/MeansSzn4Card33",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/112/",
@@ -954,7 +954,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/cb1f84eff5d374d8b7b05014c46807d11bf54da587d43647e11108931bc2d1ad.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-33.webp",
     name: "Building 2024",
     url: "https://app.manifold.xyz/c/MeansSzn5Card01",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/114",
@@ -963,7 +963,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/6e27d7a4b607de23d211657ae2f947d394b207c3a13cbbed8c38969829167435.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-34.webp",
     name: "Bitcoin ETF Bitch",
     url: "https://app.manifold.xyz/c/MeansSzn5Card02",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/115/",
@@ -972,7 +972,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/0673c63b5c49863bda852081a38f0e27b5ab55b97694b2cbc653bb7ab2312fee.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-35.webp",
     name: "Swim to 2030",
     url: "https://app.manifold.xyz/c/MeansSzn5Card03",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/116/",
@@ -981,7 +981,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/52adca5618b22d6c4a17c252c8a7a9f6206da0b4ad947853252bb05ab81bdc2a.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-36.webp",
     name: "Fight, anon, fight",
     url: "https://app.manifold.xyz/c/MeansSzn5Card04",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/117/",
@@ -990,7 +990,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/56df5d9f3887e088a08ce832f33cfec098f469cedba5e14510dd5f5a2b07aa95.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-37.webp",
     name: "The Rising",
     url: "https://app.manifold.xyz/c/MeansSzn5Card05",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/118/",
@@ -999,7 +999,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/4dd66f2b0ffe7f22a72b4899d2f03caba31ee95eb3040c5443679048a0c8755f.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-38.webp",
     name: "Beam us Up",
     url: "https://app.manifold.xyz/c/MeansSzn5Card06",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/119/",
@@ -1008,7 +1008,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_50,w_400/ccbe2f2c157c015860feba89f862d11c232b79cc9e3f29be569e34aa81dec672.gif",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-39.webp",
     name: "Fighting memes with Memes",
     url: "https://app.manifold.xyz/c/MeansSzn5Card07",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/120/",
@@ -1017,7 +1017,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/bcab4311484e28f757ec575a6d98c84bc81222d3ae72b5d0f52dd6e8fe416816.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-40.webp",
     name: "All Things AMMI",
     url: "https://app.manifold.xyz/c/MeansSzn5Card08",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/121/",
@@ -1026,7 +1026,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/80357f019cf8ef5758a44125f6b13bff0e29e7b291d99ceadb9ed161ee3890d8.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-41.webp",
     name: "I Think",
     url: "https://app.manifold.xyz/c/MeansSzn5Card09",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/122/",
@@ -1035,7 +1035,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/image/upload/c_limit,q_80,w_1024/d506b9d30110a5f4a1a06d13ef225b9d94f9cbe9924a3cb218e89bfa771635f6.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-42.webp",
     name: "NFTs will devour everything",
     url: "https://app.manifold.xyz/c/MeansSzn5Card10",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/123/",
@@ -1044,7 +1044,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://d1updk8hq321rl.cloudfront.net/optimized/fcfc904c0f6c5c66012c493854a8024be0840626b82d628534a8772992eeea9c/w_1024.webp",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-43.webp",
     name: "By Any Means Necessary",
     url: "https://app.manifold.xyz/c/MeansSzn5Card11",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/125",
@@ -1053,7 +1053,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://i.seadn.io/s/raw/files/6a33d1e120b636e66b5675655efa4f73.png?auto=format&dpr=1&w=1000",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-44.webp",
     name: "Cheese Happens",
     url: "https://app.manifold.xyz/c/MeansSzn5Card12",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/127/",
@@ -1062,7 +1062,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://i.seadn.io/s/raw/files/f0f88a325a21dce44b75f588d5fd2430.gif?auto=format&dpr=1&w=1400&fr=1",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-45.webp",
     name: "Move to Piss Everybody Off",
     url: "https://app.manifold.xyz/c/MeansSzn5Card13",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/129/",
@@ -1071,7 +1071,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/optimized/ca69fcc65d5a852e4de6b0e6c833e350fa7eab51b9122867ad969739dea9f20b/w_1024.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-46.webp",
     name: "Sweet Dreams",
     url: "https://app.manifold.xyz/c/MeansSzn5Card14",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/133/",
@@ -1080,7 +1080,7 @@ export const szn2 = [
   },
     {
     image:
-      "https://assets.manifold.xyz/optimized/6bb5781e45808417dd79c1b2322296fa83ceef66bf1ee5180bd14ad8bd5b1da7/w_1024.jpg",
+      "https://themeanscreator.b-cdn.net/season2-5means/w_1024-47.webp",
     name: "War and Peace will never be the same again",
     url: "https://app.manifold.xyz/c/MeansSzn5Card15",
     osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/134/",

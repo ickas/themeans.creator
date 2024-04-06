@@ -4,23 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "d3lqz0a4bldqgf.cloudfront.net",
-      },
-      {
-        protocol: "https",
-        hostname: "d1updk8hq321rl.cloudfront.net",
-      },
-      {
-        protocol: "https",
-        hostname: "i.seadn.io",
-      },
-      {
-        protocol: "https",
-        hostname: "arweave.net",
-      },
-      {
-        protocol: "https",
-        hostname: "assets.manifold.xyz",
+        hostname: "themeanscreator.b-cdn.net",
       },
     ],
   },
