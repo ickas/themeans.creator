@@ -1087,4 +1087,31 @@ export const szn2 = [
     startDate: "2024-03-25",
     endDate: "2024-07-31",
   },
+    {
+    image:
+      "https://themeanscreator.b-cdn.net/season2-5means/SZN5%20Card16.gif",
+    name: "Never Ending Evolution",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card16",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/136/",
+    startDate: "2024-04-09",
+    endDate: "2024-07-31",
+  },
+    {
+    image:
+      "https://themeanscreator.b-cdn.net/season2-5means/SZN5%20Card17.PNG",
+    name: "MSG to Young People",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card17",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/137/",
+    startDate: "2024-04-11",
+    endDate: "2024-07-31",
+  },
+    {
+    image:
+      "https://themeanscreator.b-cdn.net/season2-5means/SZN5%20Card18.PNG",
+    name: "The Magic is Here",
+    url: "https://app.manifold.xyz/c/MeansSzn5Card18",
+    osUrl: "https://opensea.io/assets/ethereum/0x83a079036879f878f438e8df79a76dbd98ec23cf/138/",
+    startDate: "2024-04-19",
+    endDate: "2024-07-31",
+  },
 ];
